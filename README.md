@@ -147,7 +147,7 @@ What I love is finding the **engineering in finance** — VBA tools that save ho
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="195" src="https://github-readme-stats.vercel.app/api?username=Sampi314&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&ring_color=FF6B00" alt="Sam's GitHub stats" />
+        <img height="195" src="https://github-readme-stats.vercel.app/api?username=Sampi314&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&ring_color=FF6B00&card_width=445" alt="Sam's GitHub stats" />
       </a>
     </td>
     <td align="center" valign="top" width="50%">
