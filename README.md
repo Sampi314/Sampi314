@@ -79,32 +79,44 @@ What I love is finding the **engineering in finance** — VBA tools that save ho
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Activity</h2>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sampi314&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Sam's GitHub stats" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sampi314&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+<p align="center"><sub><i>A live dashboard of what I'm shipping, learning, and breaking.</i></sub></p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampi314&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-  </a>
-</p>
+<div align="center">
 
----
+<table border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="195" src="https://github-readme-stats.vercel.app/api?username=Sampi314&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7" alt="Sam's GitHub stats" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://git.io/streak-stats">
+        <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Sampi314&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampi314&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=7aa2f7&card_width=600" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sampi314/Sampi314/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sampi314/Sampi314/output/github-contribution-grid-snake.svg" />
+        <img alt="🐍 Snake eating my contribution graph" src="https://raw.githubusercontent.com/Sampi314/Sampi314/output/github-contribution-grid-snake.svg" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sampi314/Sampi314/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sampi314/Sampi314/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Sampi314/Sampi314/output/github-contribution-grid-snake.svg" />
-</picture>
+</div>
 
 ---
 
