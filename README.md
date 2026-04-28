@@ -1,87 +1,145 @@
-<h1 align="center">Hi, I'm Sam Ngo 👋</h1>
-
-<p align="center">
-  <em>Finding the engineering in finance — building tools that turn complex spreadsheets into clear answers.</em>
-</p>
-
 <!--
-  Tagline alternatives (swap above if you prefer):
-  • "Senior Analyst by day, automation tinkerer always. Where finance meets code."
-  • "Bridging consulting and code — one VBA tool, one model, one dashboard at a time."
-  • "I make Excel do things it wasn't supposed to do."
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║  Sam Ngo · github.com/Sampi314                                       ║
+  ║  Mission Control aesthetic · Neon Orange + Black                     ║
+  ║  Accent: #FF6B00 · Surface: #0d1117                                  ║
+  ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
+<!-- ──────────────────────  ANIMATED BANNER  ────────────────────── -->
+
+<a href="https://github.com/Sampi314">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:FF6B00&height=200&section=header&text=SAM%20NGO&fontSize=68&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=//%20engineering%20·%20finance%20·%20automation&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn" alt="Sam Ngo banner" />
+</a>
+
+<!-- ──────────────────────  TYPING READOUT  ────────────────────── -->
+
 <p align="center">
-  <a href="https://sampi314.github.io/Sam-Personal-Profile/"><img src="https://img.shields.io/badge/Portfolio-sampi314.github.io-2b6cb0?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/nkhoihue/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:nkhoihue@gmail.com"><img src="https://img.shields.io/badge/Email-nkhoihue%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Sydney-AU-1B1F23?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="https://github.com/Sampi314">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=FF6B00&center=true&vCenter=true&width=760&lines=%3E+Senior+Analyst+%40+SumProduct%2C+Sydney+%F0%9F%87%A6%F0%9F%87%BA;%3E+Excel+%E2%80%A2+VBA+%E2%80%A2+Power+BI+%E2%80%A2+AI+tooling+for+consulting;%3E+30%2B+VBA+tools+%E2%80%A2+50%2B+models+%E2%80%A2+20%2B+published+articles;%3E+Finding+the+engineering+in+finance" alt="Typing readout" />
+  </a>
 </p>
 
----
+<!-- ──────────────────────  STATUS BAR  ────────────────────── -->
 
-## 👨‍💻 About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-FF6B00?style=flat-square&labelColor=000000" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LOC-SYDNEY%20AU-FF6B00?style=flat-square&labelColor=000000&logo=googlemaps&logoColor=FF6B00" alt="Location" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TZ-UTC%2B11-FF6B00?style=flat-square&labelColor=000000" alt="Timezone" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Sampi314&label=VIEWS&color=FF6B00&style=flat-square&labelColor=000000" alt="Profile views" />
+</p>
+
+<!-- ──────────────────────  CONNECT BAR  ────────────────────── -->
+
+<p align="center">
+  <a href="https://sampi314.github.io/Sam-Personal-Profile/"><img src="https://img.shields.io/badge/PORTFOLIO-▸-FF6B00?style=flat-square&labelColor=000000&logo=githubpages&logoColor=FF6B00" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/nkhoihue/"><img src="https://img.shields.io/badge/LINKEDIN-▸-FF6B00?style=flat-square&labelColor=000000&logo=linkedin&logoColor=FF6B00" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:nkhoihue@gmail.com"><img src="https://img.shields.io/badge/EMAIL-▸-FF6B00?style=flat-square&labelColor=000000&logo=gmail&logoColor=FF6B00" alt="Email" /></a>
+</p>
+
+<br />
+
+<!-- ──────────────────────  ABOUT  ────────────────────── -->
+
+## ▸ ABOUT
+
+```
+> Senior Analyst at SumProduct, Sydney
+> Building the bridge between consulting workflows and code
+```
 
 I'm a **Senior Analyst at [SumProduct](https://www.sumproduct.com)** in Sydney, where I build financial models, automate consulting workflows, and turn complex data into clear visuals for clients across infrastructure, energy, real estate, and government.
 
 What I love is finding the **engineering in finance** — VBA tools that save hours of manual work, formulas that replace whole processes, and dashboards that tell a story at a glance. Lately I've been productising that work as AI tooling so the patterns scale beyond me.
 
-➡️ Full portfolio: **[sampi314.github.io/Sam-Personal-Profile](https://sampi314.github.io/Sam-Personal-Profile/)**
+➤ Full portfolio: **[sampi314.github.io/Sam-Personal-Profile](https://sampi314.github.io/Sam-Personal-Profile/)**
 
----
+<br />
 
-## 🛠️ What I'm Building
+<!-- ──────────────────────  NOW SHIPPING  ────────────────────── -->
 
-- 🔍 **Multi-agent Excel audit framework** — 10 audit dimensions: formula logic, error detection, formatting consistency, text quality, efficiency, hyperlinks, VBA, Power Query, and dependency mapping
-- 📊 **7-phase financial modelling suite** — productised Claude Code skills covering scoping → delivery for consulting models
-- ✍️ **Editorial writing auditor · DAX blog generator · book authoring assistant** — internal tools that ship and save real hours
-- 🤖 **Cross-platform AI integration** — evaluating and integrating Claude, ChatGPT, and Gemini into team workflows
-- 📈 **By the numbers:** 30+ VBA tools · 50+ financial models · 20+ published articles · 3+ years at SumProduct
+## ▸ NOW SHIPPING
 
----
+| | Project |
+|:---:|:---|
+| ► | **Multi-agent Excel audit framework** — 10 audit dimensions: formula logic, error detection, formatting, text quality, efficiency, hyperlinks, VBA, Power Query, dependency mapping |
+| ► | **7-phase financial modelling suite** — productised Claude Code skills covering scoping → delivery for consulting models |
+| ► | **Editorial writing auditor · DAX blog generator · book authoring assistant** — internal tools that ship and save real hours |
+| ► | **Cross-platform AI integration** — evaluating Claude, ChatGPT, and Gemini into team workflows |
+| ► | **By the numbers** — `30+ VBA tools` · `50+ financial models` · `20+ articles` · `3+ years at SumProduct` |
 
-## 📌 Pinned Repositories
+<br />
 
-| | Repo | What it is |
-|---|------|------------|
-| 🌐 | [**Sam-Personal-Profile**](https://github.com/Sampi314/Sam-Personal-Profile) | Personal portfolio site — projects, experience, articles, interactive demos |
-| 📚 | [**Finance-Knowledge**](https://github.com/Sampi314/Finance-Knowledge) | Python notebooks exploring quantitative finance concepts *(actively updated)* |
-| 🤖 | [**Claude**](https://github.com/Sampi314/Claude) | Claude Code experiments and reusable skill prototypes |
+<!-- ──────────────────────  PINNED REPOS  ────────────────────── -->
 
----
+## ▸ PINNED REPOSITORIES
 
-## 🧰 Tech Stack
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌐 <a href="https://github.com/Sampi314/Sam-Personal-Profile">Sam-Personal-Profile</a></h3>
+      <p>Personal portfolio site — projects, experience, articles, interactive demos.</p>
+      <p><img src="https://img.shields.io/badge/HTML-000000?style=flat-square&labelColor=000000&logo=html5&logoColor=FF6B00&color=FF6B00" /></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📚 <a href="https://github.com/Sampi314/Finance-Knowledge">Finance-Knowledge</a></h3>
+      <p>Python notebooks exploring quantitative finance concepts. <em>Actively updated.</em></p>
+      <p><img src="https://img.shields.io/badge/Python-000000?style=flat-square&labelColor=000000&logo=python&logoColor=FF6B00&color=FF6B00" /></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 <a href="https://github.com/Sampi314/Claude">Claude</a></h3>
+      <p>Claude Code experiments and reusable skill prototypes for consulting.</p>
+      <p><img src="https://img.shields.io/badge/Claude-000000?style=flat-square&labelColor=000000&logo=anthropic&logoColor=FF6B00&color=FF6B00" /></p>
+    </td>
+  </tr>
+</table>
 
-**Spreadsheet & Business Intelligence**
+<br />
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-1F4E79?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+<!-- ──────────────────────  STACK  ────────────────────── -->
 
-**Languages**
+## ▸ STACK
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <strong><sub>SPREADSHEET · BI</sub></strong><br />
+  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/VBA-000000?style=for-the-badge&logo=visual-basic&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=powerbi&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/Power_Query-000000?style=for-the-badge&logo=microsoft&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/Power_Automate-000000?style=for-the-badge&logo=powerautomate&logoColor=FF6B00" />
+</p>
 
-**AI, Tooling & Workflow**
+<p>
+  <strong><sub>LANGUAGES</sub></strong><br />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/VB.NET-000000?style=for-the-badge&logo=dotnet&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF6B00" />
+</p>
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+  <strong><sub>AI · TOOLING · WORKFLOW</sub></strong><br />
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=FF6B00" />
+</p>
 
----
+<br />
 
-<h2 align="center">📊 GitHub Activity</h2>
+<!-- ──────────────────────  TELEMETRY  ────────────────────── -->
 
-<p align="center"><sub><i>A live dashboard of what I'm shipping, learning, and breaking.</i></sub></p>
+## ▸ TELEMETRY
+
+<p><sub><i>// live readout — commits · streak · languages · contributions</i></sub></p>
 
 <div align="center">
 
@@ -89,19 +147,26 @@ What I love is finding the **engineering in finance** — VBA tools that save ho
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="195" src="https://github-readme-stats.vercel.app/api?username=Sampi314&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7" alt="Sam's GitHub stats" />
+        <img height="195" src="https://github-readme-stats.vercel.app/api?username=Sampi314&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&ring_color=FF6B00" alt="Sam's GitHub stats" />
       </a>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://git.io/streak-stats">
-        <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Sampi314&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+        <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Sampi314&hide_border=true&background=0d1117&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=AAAAAA" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampi314&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=7aa2f7&card_width=600" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampi314&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&card_width=600&langs_count=10" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sampi314&bg_color=0d1117&color=FF6B00&line=FF6B00&point=ffffff&area=true&area_color=FF6B00&hide_border=true&custom_title=COMMIT%20ACTIVITY%20%2F%2F%20LAST%2031%20DAYS&radius=8" alt="Commit activity graph" />
       </a>
     </td>
   </tr>
@@ -110,7 +175,7 @@ What I love is finding the **engineering in finance** — VBA tools that save ho
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sampi314/Sampi314/output/github-contribution-grid-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sampi314/Sampi314/output/github-contribution-grid-snake.svg" />
-        <img alt="🐍 Snake eating my contribution graph" src="https://raw.githubusercontent.com/Sampi314/Sampi314/output/github-contribution-grid-snake.svg" />
+        <img alt="🐍 Snake eating my contribution graph" src="https://raw.githubusercontent.com/Sampi314/Sampi314/output/github-contribution-grid-snake-dark.svg" />
       </picture>
     </td>
   </tr>
@@ -118,46 +183,65 @@ What I love is finding the **engineering in finance** — VBA tools that save ho
 
 </div>
 
----
+<br />
 
-## 🌱 Currently Exploring
+<!-- ──────────────────────  ACHIEVEMENTS  ────────────────────── -->
 
-Public learning trajectory — what I'm reading, forking, and tinkering with right now:
+## ▸ ACHIEVEMENTS
 
-- **Microsoft AI Tour 2026** — agent building, Model Context Protocol (MCP), GitHub Copilot agent mode, model customization with Foundry
-- **Anthropic plugin development** — `financial-services-plugins`, `knowledge-work-plugins`, building skills for consulting workflows
-- **Voice & multimodal AI** — Whisper, OmniVoice, VibeVoice, and `VieNeu-TTS` (Vietnamese text-to-speech 🇻🇳)
-- **LLMs from scratch** — building intuition for the models I deploy daily
-- **Spec-Driven Development** — exploring `spec-kit` patterns to make AI workflows more rigorous
-- **AI for consulting workflows** — wiring Claude, Excel, and Power BI together so the patterns I build for one client scale to the whole firm
+<p>
+  <a href="https://github.com/Sampi314?achievement=pull-shark&tab=achievements"><img height="80" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" /></a>
+  &nbsp;
+  <a href="https://github.com/Sampi314?achievement=pair-extraordinaire&tab=achievements"><img height="80" src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" alt="Pair Extraordinaire" /></a>
+  &nbsp;
+  <a href="https://github.com/Sampi314?achievement=quickdraw&tab=achievements"><img height="80" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw" /></a>
+  &nbsp;
+  <a href="https://github.com/Sampi314?achievement=yolo&tab=achievements"><img height="80" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO" /></a>
+</p>
 
----
+<sub><code>Pull Shark ×3</code> · <code>Pair Extraordinaire ×3</code> · <code>Quickdraw</code> · <code>YOLO</code></sub>
 
-## 🏆 GitHub Achievements
+<br />
 
-[![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/Sampi314?achievement=pull-shark&tab=achievements)
-[![Pair Extraordinaire](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png)](https://github.com/Sampi314?achievement=pair-extraordinaire&tab=achievements)
-[![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)](https://github.com/Sampi314?achievement=quickdraw&tab=achievements)
-[![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)](https://github.com/Sampi314?achievement=yolo&tab=achievements)
+<!-- ──────────────────────  EXPLORING  ────────────────────── -->
 
-**Pull Shark** ×3 · **Pair Extraordinaire** ×3 · **Quickdraw** · **YOLO**
+## ▸ CURRENTLY EXPLORING
 
----
+<p><sub><i>// public learning trajectory — what's in my browser tabs and editor</i></sub></p>
 
-## 📫 Let's Connect
+- ► **Microsoft AI Tour 2026** — agent building, Model Context Protocol (MCP), GitHub Copilot agent mode, model customization with Foundry
+- ► **Anthropic plugin development** — `financial-services-plugins`, `knowledge-work-plugins` — building skills for consulting workflows
+- ► **Voice & multimodal AI** — Whisper, OmniVoice, VibeVoice, and `VieNeu-TTS` (Vietnamese text-to-speech 🇻🇳)
+- ► **LLMs from scratch** — building intuition for the models I deploy daily
+- ► **Spec-Driven Development** — exploring `spec-kit` patterns to make AI workflows more rigorous
+- ► **AI for consulting workflows** — wiring Claude, Excel, and Power BI together so patterns built for one client scale firm-wide
 
-- 🌐 **Portfolio:** [sampi314.github.io/Sam-Personal-Profile](https://sampi314.github.io/Sam-Personal-Profile/)
-- 💼 **LinkedIn:** [in/nkhoihue](https://www.linkedin.com/in/nkhoihue/)
-- 📧 **Email:** [contact@sumproduct.com](mailto:contact@sumproduct.com)
-- 🌏 **Based in:** Sydney, Australia (UTC+11)
-- 🗣️ **Languages:** Vietnamese (native) · English (full professional) · Chinese (limited working)
+<br />
 
----
+<!-- ──────────────────────  TRANSMISSION  ────────────────────── -->
+
+## ▸ TRANSMISSION
+
+```
+> Open channel · always happy to talk shop
+> Excel · VBA · Power BI · DAX · AI tooling for consulting
+> Sydney AU · UTC+11
+```
+
+| | |
+|:---|:---|
+| 🌐 **Portfolio** | [sampi314.github.io/Sam-Personal-Profile](https://sampi314.github.io/Sam-Personal-Profile/) |
+| 💼 **LinkedIn** | [in/nkhoihue](https://www.linkedin.com/in/nkhoihue/) |
+| 📧 **Email** | [nkhoihue@gmail.com](mailto:nkhoihue@gmail.com) |
+| 🌏 **Based** | Sydney, Australia · UTC+11 |
+| 🗣️ **Languages** | Vietnamese (native) · English (full pro) · Chinese (limited working) |
+
+<br />
+
+<!-- ──────────────────────  FOOTER  ────────────────────── -->
 
 <p align="center">
   <em>"The best models aren't just accurate — they're auditable, maintainable, and tell their story without explanation."</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sampi314&label=Profile%20views&color=2b6cb0&style=flat-square" alt="Profile views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:1a1a1a,100:000000&height=120&section=footer" alt="footer" />
