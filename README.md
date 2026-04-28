@@ -159,7 +159,7 @@ What I love is finding the **engineering in finance** — VBA tools that save ho
   <tr>
     <td colspan="2" align="center" valign="top">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampi314&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&card_width=600&langs_count=10" alt="Top Languages" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampi314&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&card_width=900&langs_count=10" alt="Top Languages" />
       </a>
     </td>
   </tr>
