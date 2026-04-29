@@ -79,25 +79,24 @@ What I love is finding the **engineering in finance** — VBA tools that save ho
 
 ## ▸ PINNED REPOSITORIES
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🌐 <a href="https://github.com/Sampi314/Sam-Personal-Profile">Sam-Personal-Profile</a></h3>
-      <p>Personal portfolio site — projects, experience, articles, interactive demos.</p>
-      <p><img src="https://img.shields.io/badge/HTML-000000?style=flat-square&labelColor=000000&logo=html5&logoColor=FF6B00&color=FF6B00" /></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>📚 <a href="https://github.com/Sampi314/Finance-Knowledge">Finance-Knowledge</a></h3>
-      <p>Python notebooks exploring quantitative finance concepts. <em>Actively updated.</em></p>
-      <p><img src="https://img.shields.io/badge/Python-000000?style=flat-square&labelColor=000000&logo=python&logoColor=FF6B00&color=FF6B00" /></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🤖 <a href="https://github.com/Sampi314/Claude">Claude</a></h3>
-      <p>Claude Code experiments and reusable skill prototypes for consulting.</p>
-      <p><img src="https://img.shields.io/badge/Claude-000000?style=flat-square&labelColor=000000&logo=anthropic&logoColor=FF6B00&color=FF6B00" /></p>
-    </td>
-  </tr>
-</table>
+<p><sub><i>// auto-syncs stars · forks · description from the API</i></sub></p>
+
+<p align="center">
+  <a href="https://github.com/Sampi314/Sam-Personal-Profile">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampi314&repo=Sam-Personal-Profile&hide_border=true&bg_color=0d1117&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff" alt="Sam-Personal-Profile" />
+  </a>
+  <a href="https://github.com/Sampi314/Finance-Knowledge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampi314&repo=Finance-Knowledge&hide_border=true&bg_color=0d1117&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff" alt="Finance-Knowledge" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Sampi314/Claude">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampi314&repo=Claude&hide_border=true&bg_color=0d1117&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff" alt="Claude" />
+  </a>
+  <a href="https://github.com/Sampi314/Iris-Personal-Profile">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampi314&repo=Iris-Personal-Profile&hide_border=true&bg_color=0d1117&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff" alt="Iris-Personal-Profile" />
+  </a>
+</p>
 
 <br />
 
@@ -172,6 +171,13 @@ What I love is finding the **engineering in finance** — VBA tools that save ho
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
+      <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
+        <img width="100%" src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-3d/profile-night-view.svg" alt="3D contribution calendar" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sampi314/Sampi314/output/github-contribution-grid-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sampi314/Sampi314/output/github-contribution-grid-snake.svg" />
@@ -185,11 +191,68 @@ What I love is finding the **engineering in finance** — VBA tools that save ho
 
 <br />
 
-<!-- ──────────────────────  ACHIEVEMENTS  ────────────────────── -->
+<!-- ──────────────────────  PROFILE BREAKDOWN  ────────────────────── -->
 
-## ▸ ACHIEVEMENTS
+## ▸ PROFILE BREAKDOWN
 
-<p>
+<p><sub><i>// aggregated views — language distribution, productivity rhythm, profile snapshot</i></sub></p>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-summary/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-summary/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-summary/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-summary/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <img width="100%" src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-summary/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br />
+
+<!-- ──────────────────────  DETAILED METRICS  ────────────────────── -->
+
+## ▸ DETAILED METRICS
+
+<p><sub><i>// deep dashboard — calendar, isocalendar, language depth, habits, achievements (powered by lowlighter/metrics)</i></sub></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-metrics/github-metrics.svg" alt="Detailed GitHub metrics" />
+</p>
+
+> [!NOTE]
+> If this section shows a broken image, the metrics workflow needs a Personal Access Token. See `.github/workflows/metrics.yml` for one-time setup steps (≈2 minutes).
+
+<br />
+
+<!-- ──────────────────────  TROPHIES & ACHIEVEMENTS  ────────────────────── -->
+
+## ▸ TROPHIES & ACHIEVEMENTS
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sampi314&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub trophies" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Sampi314?achievement=pull-shark&tab=achievements"><img height="80" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" /></a>
   &nbsp;
   <a href="https://github.com/Sampi314?achievement=pair-extraordinaire&tab=achievements"><img height="80" src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" alt="Pair Extraordinaire" /></a>
@@ -199,7 +262,7 @@ What I love is finding the **engineering in finance** — VBA tools that save ho
   <a href="https://github.com/Sampi314?achievement=yolo&tab=achievements"><img height="80" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO" /></a>
 </p>
 
-<sub><code>Pull Shark ×3</code> · <code>Pair Extraordinaire ×3</code> · <code>Quickdraw</code> · <code>YOLO</code></sub>
+<p align="center"><sub><code>Pull Shark ×3</code> · <code>Pair Extraordinaire ×3</code> · <code>Quickdraw</code> · <code>YOLO</code></sub></p>
 
 <br />
 
