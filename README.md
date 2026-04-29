@@ -75,31 +75,6 @@ What I love is finding the **engineering in finance** — VBA tools that save ho
 
 <br />
 
-<!-- ──────────────────────  PINNED REPOS  ────────────────────── -->
-
-## ▸ PINNED REPOSITORIES
-
-<p><sub><i>// auto-syncs stars · forks · description from the API</i></sub></p>
-
-<p align="center">
-  <a href="https://github.com/Sampi314/Sam-Personal-Profile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampi314&repo=Sam-Personal-Profile&hide_border=true&bg_color=0d1117&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff" alt="Sam-Personal-Profile" />
-  </a>
-  <a href="https://github.com/Sampi314/Finance-Knowledge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampi314&repo=Finance-Knowledge&hide_border=true&bg_color=0d1117&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff" alt="Finance-Knowledge" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Sampi314/Claude">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampi314&repo=Claude&hide_border=true&bg_color=0d1117&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff" alt="Claude" />
-  </a>
-  <a href="https://github.com/Sampi314/Iris-Personal-Profile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampi314&repo=Iris-Personal-Profile&hide_border=true&bg_color=0d1117&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff" alt="Iris-Personal-Profile" />
-  </a>
-</p>
-
-<br />
-
 <!-- ──────────────────────  STACK  ────────────────────── -->
 
 ## ▸ STACK
@@ -202,23 +177,18 @@ What I love is finding the **engineering in finance** — VBA tools that save ho
 <table border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center" valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-summary/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
+      <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
     </td>
     <td align="center" valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-summary/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
+      <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-summary/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" />
+      <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" />
     </td>
     <td align="center" valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-summary/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <img width="100%" src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-summary/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
+      <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
     </td>
   </tr>
 </table>

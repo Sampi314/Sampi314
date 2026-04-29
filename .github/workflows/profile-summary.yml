@@ -24,4 +24,21 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: 'output-summary'
+
+      - name: Keep only github_dark theme + drop stats radar
+        run: |
+          if [ -d "profile-summary-card-output" ]; then
+            cd profile-summary-card-output
+            find . -mindepth 1 -maxdepth 1 -type d ! -name 'github_dark' -exec rm -rf {} +
+            rm -f github_dark/3-stats.svg github_dark/README.md
+            rm -f README.md
+            cd ..
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git pull --rebase origin main
+            git add -A
+            if ! git diff --cached --quiet; then
+              git commit -m "chore: keep only github_dark theme (drop unused themes + stats radar)"
+              git push origin main
+            fi
+          fi
