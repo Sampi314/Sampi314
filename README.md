@@ -146,13 +146,6 @@ What I love is finding the **engineering in finance** — VBA tools that save ho
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
-      <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
-        <img width="100%" src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-3d/profile-night-view.svg" alt="3D contribution calendar" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sampi314/Sampi314/output/github-contribution-grid-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sampi314/Sampi314/output/github-contribution-grid-snake.svg" />
