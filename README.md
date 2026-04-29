@@ -159,37 +159,6 @@ What I love is finding the **engineering in finance** — VBA tools that save ho
 
 <br />
 
-<!-- ──────────────────────  PROFILE BREAKDOWN  ────────────────────── -->
-
-## ▸ PROFILE BREAKDOWN
-
-<p><sub><i>// aggregated views — language distribution, productivity rhythm, profile snapshot</i></sub></p>
-
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br />
-
 <!-- ──────────────────────  DETAILED METRICS  ────────────────────── -->
 
 ## ▸ DETAILED METRICS
