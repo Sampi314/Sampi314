@@ -159,21 +159,6 @@ What I love is finding the **leverage points in finance** — the moments where 
 
 <br />
 
-<!-- ──────────────────────  DETAILED METRICS  ────────────────────── -->
-
-## ▸ DETAILED METRICS
-
-<p><sub><i>// deep dashboard — calendar, isocalendar, language depth, habits, achievements (powered by lowlighter/metrics)</i></sub></p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-metrics/github-metrics.svg" alt="Detailed GitHub metrics" />
-</p>
-
-> [!NOTE]
-> If this section shows a broken image, the metrics workflow needs a Personal Access Token. See `.github/workflows/metrics.yml` for one-time setup steps (≈2 minutes).
-
-<br />
-
 <!-- ──────────────────────  TROPHIES & ACHIEVEMENTS  ────────────────────── -->
 
 ## ▸ TROPHIES & ACHIEVEMENTS
