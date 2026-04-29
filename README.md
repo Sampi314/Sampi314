@@ -9,14 +9,14 @@
 <!-- ──────────────────────  ANIMATED BANNER  ────────────────────── -->
 
 <a href="https://github.com/Sampi314">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:FF6B00&height=200&section=header&text=SAM%20NGO&fontSize=68&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=//%20engineering%20·%20finance%20·%20automation&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn" alt="Sam Ngo banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:FF6B00&height=200&section=header&text=SAM%20NGO&fontSize=68&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=//%20finance%20·%20automation%20·%20ai&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn" alt="Sam Ngo banner" />
 </a>
 
 <!-- ──────────────────────  TYPING READOUT  ────────────────────── -->
 
 <p align="center">
   <a href="https://github.com/Sampi314">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=FF6B00&center=true&vCenter=true&width=760&lines=%3E+Senior+Analyst+%40+SumProduct%2C+Sydney+%F0%9F%87%A6%F0%9F%87%BA;%3E+Excel+%E2%80%A2+VBA+%E2%80%A2+Power+BI+%E2%80%A2+AI+tooling+for+consulting;%3E+30%2B+VBA+tools+%E2%80%A2+50%2B+models+%E2%80%A2+20%2B+published+articles;%3E+Finding+the+engineering+in+finance" alt="Typing readout" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=FF6B00&center=true&vCenter=true&width=760&lines=%3E+Senior+Analyst+%40+SumProduct%2C+Sydney+%F0%9F%87%A6%F0%9F%87%BA;%3E+Excel+%E2%80%A2+VBA+%E2%80%A2+Power+BI+%E2%80%A2+AI+tooling+for+consulting;%3E+30%2B+VBA+tools+%E2%80%A2+50%2B+models+%E2%80%A2+20%2B+published+articles;%3E+Where+consulting+meets+code" alt="Typing readout" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@
 
 I'm a **Senior Analyst at [SumProduct](https://www.sumproduct.com)** in Sydney, where I build financial models, automate consulting workflows, and turn complex data into clear visuals for clients across infrastructure, energy, real estate, and government.
 
-What I love is finding the **engineering in finance** — VBA tools that save hours of manual work, formulas that replace whole processes, and dashboards that tell a story at a glance. Lately I've been productising that work as AI tooling so the patterns scale beyond me.
+What I love is finding the **leverage points in finance** — the moments where one VBA tool, one formula, or one dashboard replaces an entire process. Lately I've been productising that work as AI tooling so the patterns scale beyond me.
 
 ➤ Full portfolio: **[sampi314.github.io/Sam-Personal-Profile](https://sampi314.github.io/Sam-Personal-Profile/)**
 
@@ -180,7 +180,7 @@ What I love is finding the **engineering in finance** — VBA tools that save ho
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sampi314&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sampi314&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=FF6B00&text_color=FF6B00&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub trophies" />
   </a>
 </p>
 
