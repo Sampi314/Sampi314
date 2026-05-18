@@ -120,20 +120,8 @@ What I love is finding the **leverage points in finance** — the moments where 
 <table border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="195" src="https://github-readme-stats.vercel.app/api?username=Sampi314&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&ring_color=FF6B00&card_width=445" alt="Sam's GitHub stats" />
-      </a>
-    </td>
-    <td align="center" valign="top" width="50%">
       <a href="https://git.io/streak-stats">
         <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Sampi314&hide_border=true&background=0d1117&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=AAAAAA" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampi314&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&card_width=900&langs_count=10" alt="Top Languages" />
       </a>
     </td>
   </tr>
