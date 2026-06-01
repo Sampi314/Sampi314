@@ -152,12 +152,6 @@ What I love is finding the **leverage points in finance** — the moments where 
 ## ▸ TROPHIES & ACHIEVEMENTS
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sampi314&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=FF6B00&text_color=FF6B00&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub trophies" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Sampi314?achievement=pull-shark&tab=achievements"><img height="80" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" /></a>
   &nbsp;
   <a href="https://github.com/Sampi314?achievement=pair-extraordinaire&tab=achievements"><img height="80" src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" alt="Pair Extraordinaire" /></a>
