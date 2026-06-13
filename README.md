@@ -35,7 +35,7 @@
 <!-- ──────────────────────  CONNECT BAR  ────────────────────── -->
 
 <p align="center">
-  <a href="https://sampi314.github.io/Sam-Personal-Profile/assets/Sam_Ngo_CV.pdf"><img src="https://img.shields.io/badge/DOWNLOAD_CV-▸-f59e0b?style=flat-square&labelColor=000000&logo=adobeacrobatreader&logoColor=f59e0b" alt="Download CV" /></a>
+  <a href="./Sam_Ngo_CV.pdf"><img src="https://img.shields.io/badge/DOWNLOAD_CV-▸-f59e0b?style=flat-square&labelColor=000000&logo=adobeacrobatreader&logoColor=f59e0b" alt="Download CV" /></a>
   &nbsp;
   <a href="https://sampi314.github.io/Sam-Personal-Profile/"><img src="https://img.shields.io/badge/PORTFOLIO-▸-f59e0b?style=flat-square&labelColor=000000&logo=githubpages&logoColor=f59e0b" alt="Portfolio" /></a>
   &nbsp;
