@@ -121,18 +121,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Sampi314/Sam-Plugin-Marketplace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampi314&repo=Sam-Plugin-Marketplace&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00" alt="Sam-Plugin-Marketplace" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Sampi314/Finance-Knowledge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampi314&repo=Finance-Knowledge&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00" alt="Finance-Knowledge" />
-      </a>
-    </td>
-  </tr>
 </table>
 </div>
 
