@@ -25,12 +25,14 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Keep only github_dark theme + drop stats radar
+      - name: Keep github_dark + github_light themes, drop stats radar
         run: |
           if [ -d "profile-summary-card-output" ]; then
             cd profile-summary-card-output
-            find . -mindepth 1 -maxdepth 1 -type d ! -name 'github_dark' -exec rm -rf {} +
+            find . -mindepth 1 -maxdepth 1 -type d \
+              ! -name 'github_dark' ! -name 'github_light' -exec rm -rf {} +
             rm -f github_dark/3-stats.svg github_dark/README.md
+            rm -f github_light/3-stats.svg github_light/README.md
             rm -f README.md
             cd ..
             git config user.name "github-actions[bot]"
@@ -38,7 +40,7 @@ jobs:
             git pull --rebase --autostash origin main
             git add -A
             if ! git diff --cached --quiet; then
-              git commit -m "chore: keep only github_dark theme (drop unused themes + stats radar)"
+              git commit -m "chore: refresh profile summary cards (dark + light)"
               git push origin main
             fi
           fi
