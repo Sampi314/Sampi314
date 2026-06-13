@@ -16,7 +16,7 @@
 <div align="center">
 
 ```
-┌─[ nkhoihue@gmail.com ]──────────────────────────────┐
+┌─[ Sam Ngo ]──-----------────────────────────────────┐
 │  senior analyst · engineering the finance workflow  │
 └─────────────────────────────────────────────────────┘
 ```
