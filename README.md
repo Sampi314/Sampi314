@@ -16,7 +16,7 @@
 <div align="center">
 
 ```
-┌─[ sam@sumproduct ]──────────────────────────────────┐
+┌─[ nkhoihue@gmail.com ]──────────────────────────────┐
 │  senior analyst · engineering the finance workflow  │
 └─────────────────────────────────────────────────────┘
 ```
@@ -66,21 +66,6 @@
 </table>
 </div>
 
-<!-- ──────────────────────  ANIMATED DIVIDER  ────────────────────── -->
-
-<!-- ──────────────────────  TAGLINE STRIP  ────────────────────── -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=800&color=FF6B00&center=true&vCenter=true&width=760&lines=%3E_+build+the+model+%C2%B7+automate+the+audit+%C2%B7+tell+the+story;%3E_+excel+%C2%B7+vba+%C2%B7+power+bi+%C2%B7+dax+%C2%B7+python+%C2%B7+claude+code;%3E_+engineering+the+finance+workflow" alt="Tagline strip" />
-</p>
-
-<!-- ──────────────────────  TOP LANGUAGES STRIP  ────────────────────── -->
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampi314&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&card_width=380&langs_count=8" alt="Top languages" />
-</p>
-
-<br />
 
 <!-- ──────────────────────  ABOUT — ONE PARAGRAPH  ────────────────────── -->
 
