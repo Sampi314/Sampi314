@@ -119,7 +119,7 @@ What I love is finding the **leverage points in finance** — the moments where 
 
 <table border="0" cellspacing="0" cellpadding="6">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td colspan="2" align="center" valign="top">
       <a href="https://git.io/streak-stats">
         <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Sampi314&hide_border=true&background=0d1117&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=AAAAAA" alt="GitHub Streak" />
       </a>
@@ -137,8 +137,45 @@ What I love is finding the **leverage points in finance** — the moments where 
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sampi314/Sampi314/output/github-contribution-grid-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sampi314/Sampi314/output/github-contribution-grid-snake.svg" />
-        <img alt="🐍 Snake eating my contribution graph" src="https://raw.githubusercontent.com/Sampi314/Sampi314/output/github-contribution-grid-snake-dark.svg" />
+        <img alt="🐍 Snake eating my contribution graph" src="https://raw.githubusercontent.com/Sampi314/Sampi314/output/github-contribution-grid-snake.svg" />
       </picture>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br />
+
+<!-- ──────────────────────  STATS  ────────────────────── -->
+
+## ▸ STATS
+
+<p><sub><i>// language mix · productive hours · profile snapshot — auto-regenerated daily</i></sub></p>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="./profile-summary-card-output/github_dark/0-profile-details.svg#gh-dark-mode-only" alt="Profile details" />
+      <img src="./profile-summary-card-output/github/0-profile-details.svg#gh-light-mode-only" alt="Profile details" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg#gh-dark-mode-only" alt="Repos per language" />
+      <img src="./profile-summary-card-output/github/1-repos-per-language.svg#gh-light-mode-only" alt="Repos per language" />
+    </td>
+    <td align="center" width="50%">
+      <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg#gh-dark-mode-only" alt="Most commit language" />
+      <img src="./profile-summary-card-output/github/2-most-commit-language.svg#gh-light-mode-only" alt="Most commit language" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="./profile-summary-card-output/github_dark/4-productive-time.svg#gh-dark-mode-only" alt="Productive time" />
+      <img src="./profile-summary-card-output/github/4-productive-time.svg#gh-light-mode-only" alt="Productive time" />
     </td>
   </tr>
 </table>
