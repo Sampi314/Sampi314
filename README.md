@@ -64,6 +64,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=800&color=FF6B00&center=true&vCenter=true&width=760&lines=%3E_+build+the+model+%C2%B7+automate+the+audit+%C2%B7+tell+the+story;%3E_+excel+%C2%B7+vba+%C2%B7+power+bi+%C2%B7+dax+%C2%B7+python+%C2%B7+claude+code;%3E_+engineering+the+finance+workflow" alt="Tagline strip" />
 </p>
 
+<!-- ──────────────────────  TOP LANGUAGES STRIP  ────────────────────── -->
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampi314&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&card_width=380&langs_count=8" alt="Top languages" />
+</p>
+
 <br />
 
 <!-- ──────────────────────  ABOUT — ONE PARAGRAPH  ────────────────────── -->
@@ -74,36 +80,42 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF6B00,100:000000&height=2" alt="" width="100%" />
 
-<!-- ──────────────────────  FEATURED WORK  ────────────────────── -->
+<!-- ──────────────────────  FEATURED WORK — LIVE PIN CARDS  ────────────────────── -->
 
 ## // Featured Work
 
-<table border="0">
+<p><sub><i>// live repo cards — updated automatically from GitHub</i></sub></p>
+
+<div align="center">
+<table border="0" cellspacing="6" cellpadding="0">
   <tr>
-    <td valign="top" width="50%">
-      <a href="https://sampi314.github.io/Sam-Personal-Profile/projects/project-excel.html">
-        <img src="https://img.shields.io/badge/-_-FF6B00?style=flat-square" height="4" alt="" />
+    <td>
+      <a href="https://github.com/Sampi314/Sam-Personal-Profile">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampi314&repo=Sam-Personal-Profile&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00" alt="Sam-Personal-Profile" />
       </a>
-      <h3><a href="https://sampi314.github.io/Sam-Personal-Profile/projects/project-excel.html">Matrix Manipulation — 8 Formula Approaches</a></h3>
-      <p>MMULT, SUMIFS, GROUPBY, LAMBDA — same problem, eight ways. Interactive demo switches between all of them.</p>
-      <p>
-        <img src="https://img.shields.io/badge/EXCEL%20FORMULAS-1a1a1a?style=flat-square&labelColor=FF6B00" alt="Excel Formulas" />
-        <img src="https://img.shields.io/badge/INTERACTIVE-1a1a1a?style=flat-square&labelColor=FF6B00" alt="Interactive" />
-      </p>
     </td>
-    <td valign="top" width="50%">
-      <a href="https://sampi314.github.io/Sam-Personal-Profile/projects/project-sum-to-target.html">
-        <img src="https://img.shields.io/badge/-_-FF6B00?style=flat-square" height="4" alt="" />
+    <td>
+      <a href="https://github.com/Sampi314/Auditor_Agents">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampi314&repo=Auditor_Agents&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00" alt="Auditor_Agents" />
       </a>
-      <h3><a href="https://sampi314.github.io/Sam-Personal-Profile/projects/project-sum-to-target.html">Subset Sum in Excel</a></h3>
-      <p>Every combination that sums to a target — three approaches from step-by-step to a single formula via SEQUENCE, BASE, MMULT, FILTER.</p>
-      <p>
-        <img src="https://img.shields.io/badge/EXCEL%20ALGORITHMS-1a1a1a?style=flat-square&labelColor=FF6B00" alt="Excel Algorithms" />
-        <img src="https://img.shields.io/badge/DYNAMIC%20ARRAYS-1a1a1a?style=flat-square&labelColor=FF6B00" alt="Dynamic Arrays" />
-      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Sampi314/Sam-Plugin-Marketplace">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampi314&repo=Sam-Plugin-Marketplace&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00" alt="Sam-Plugin-Marketplace" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Sampi314/Finance-Knowledge">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampi314&repo=Finance-Knowledge&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00" alt="Finance-Knowledge" />
+      </a>
     </td>
   </tr>
 </table>
+</div>
+
+<p align="center"><sub><i>Demo pages: <a href="https://sampi314.github.io/Sam-Personal-Profile/projects/project-excel.html">Matrix Manipulation</a> · <a href="https://sampi314.github.io/Sam-Personal-Profile/projects/project-sum-to-target.html">Subset Sum</a></i></sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF6B00,100:000000&height=2" alt="" width="100%" />
 
