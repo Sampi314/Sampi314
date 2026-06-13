@@ -147,43 +147,6 @@ What I love is finding the **leverage points in finance** — the moments where 
 
 <br />
 
-<!-- ──────────────────────  STATS  ────────────────────── -->
-
-## ▸ STATS
-
-<p><sub><i>// language mix · productive hours · profile snapshot — auto-regenerated daily</i></sub></p>
-
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="6">
-  <tr>
-    <td colspan="2" align="center">
-      <img src="./profile-summary-card-output/github_dark/0-profile-details.svg#gh-dark-mode-only" alt="Profile details" />
-      <img src="./profile-summary-card-output/github/0-profile-details.svg#gh-light-mode-only" alt="Profile details" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg#gh-dark-mode-only" alt="Repos per language" />
-      <img src="./profile-summary-card-output/github/1-repos-per-language.svg#gh-light-mode-only" alt="Repos per language" />
-    </td>
-    <td align="center" width="50%">
-      <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg#gh-dark-mode-only" alt="Most commit language" />
-      <img src="./profile-summary-card-output/github/2-most-commit-language.svg#gh-light-mode-only" alt="Most commit language" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="./profile-summary-card-output/github_dark/4-productive-time.svg#gh-dark-mode-only" alt="Productive time" />
-      <img src="./profile-summary-card-output/github/4-productive-time.svg#gh-light-mode-only" alt="Productive time" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br />
-
 <!-- ──────────────────────  TROPHIES & ACHIEVEMENTS  ────────────────────── -->
 
 ## ▸ TROPHIES & ACHIEVEMENTS
