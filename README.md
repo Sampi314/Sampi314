@@ -2,46 +2,46 @@
   ╔══════════════════════════════════════════════════════════════════════╗
   ║  Sam Ngo · github.com/Sampi314                                       ║
   ║  Mirrors sampi314.github.io/Sam-Personal-Profile                     ║
-  ║  Accent: #f59e0b · Hover: #fbbf24 · Surface: #000000                 ║
+  ║  Accent: #FF6B00 · Surface: #0d1117                                  ║
   ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
 <!-- ──────────────────────  ANIMATED BANNER  ────────────────────── -->
 
 <a href="https://github.com/Sampi314">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a24,100:f59e0b&height=200&section=header&text=SAM%20NGO&fontSize=68&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=//%20finance%20·%20automation%20·%20ai&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn" alt="Sam Ngo banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:FF6B00&height=200&section=header&text=SAM%20NGO&fontSize=68&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=//%20finance%20·%20automation%20·%20ai&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn" alt="Sam Ngo banner" />
 </a>
 
 <!-- ──────────────────────  TYPING READOUT  ────────────────────── -->
 
 <p align="center">
   <a href="https://github.com/Sampi314">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=f59e0b&center=true&vCenter=true&width=760&lines=%3E+Senior+Analyst+%40+SumProduct%2C+Sydney+%F0%9F%87%A6%F0%9F%87%BA;%3E+Excel+%E2%80%A2+VBA+%E2%80%A2+Power+BI+%E2%80%A2+AI+tooling+for+consulting;%3E+30%2B+VBA+tools+%E2%80%A2+50%2B+models+%E2%80%A2+20%2B+published+articles;%3E+Where+consulting+meets+code" alt="Typing readout" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=FF6B00&center=true&vCenter=true&width=760&lines=%3E+Senior+Analyst+%40+SumProduct%2C+Sydney+%F0%9F%87%A6%F0%9F%87%BA;%3E+Excel+%E2%80%A2+VBA+%E2%80%A2+Power+BI+%E2%80%A2+AI+tooling+for+consulting;%3E+30%2B+VBA+tools+%E2%80%A2+50%2B+models+%E2%80%A2+20%2B+published+articles;%3E+Where+consulting+meets+code" alt="Typing readout" />
   </a>
 </p>
 
 <!-- ──────────────────────  STATUS BAR  ────────────────────── -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-f59e0b?style=flat-square&labelColor=000000" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-FF6B00?style=flat-square&labelColor=000000" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/LOC-SYDNEY%20AU-f59e0b?style=flat-square&labelColor=000000&logo=googlemaps&logoColor=f59e0b" alt="Location" />
+  <img src="https://img.shields.io/badge/LOC-SYDNEY%20AU-FF6B00?style=flat-square&labelColor=000000&logo=googlemaps&logoColor=FF6B00" alt="Location" />
   &nbsp;
-  <img src="https://img.shields.io/badge/TZ-UTC%2B11-f59e0b?style=flat-square&labelColor=000000" alt="Timezone" />
+  <img src="https://img.shields.io/badge/TZ-UTC%2B11-FF6B00?style=flat-square&labelColor=000000" alt="Timezone" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Sampi314&label=VIEWS&color=f59e0b&style=flat-square&labelColor=000000" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sampi314&label=VIEWS&color=FF6B00&style=flat-square&labelColor=000000" alt="Profile views" />
 </p>
 
 <!-- ──────────────────────  CONNECT BAR  ────────────────────── -->
 
 <p align="center">
-  <a href="./Sam_Ngo_CV.pdf"><img src="https://img.shields.io/badge/DOWNLOAD_CV-▸-f59e0b?style=flat-square&labelColor=000000&logo=adobeacrobatreader&logoColor=f59e0b" alt="Download CV" /></a>
+  <a href="./Sam_Ngo_CV.pdf"><img src="https://img.shields.io/badge/DOWNLOAD_CV-▸-FF6B00?style=flat-square&labelColor=000000&logo=adobeacrobatreader&logoColor=FF6B00" alt="Download CV" /></a>
   &nbsp;
-  <a href="https://sampi314.github.io/Sam-Personal-Profile/"><img src="https://img.shields.io/badge/PORTFOLIO-▸-f59e0b?style=flat-square&labelColor=000000&logo=githubpages&logoColor=f59e0b" alt="Portfolio" /></a>
+  <a href="https://sampi314.github.io/Sam-Personal-Profile/"><img src="https://img.shields.io/badge/PORTFOLIO-▸-FF6B00?style=flat-square&labelColor=000000&logo=githubpages&logoColor=FF6B00" alt="Portfolio" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/nkhoihue/"><img src="https://img.shields.io/badge/LINKEDIN-▸-f59e0b?style=flat-square&labelColor=000000&logo=linkedin&logoColor=f59e0b" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/nkhoihue/"><img src="https://img.shields.io/badge/LINKEDIN-▸-FF6B00?style=flat-square&labelColor=000000&logo=linkedin&logoColor=FF6B00" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:nkhoihue@gmail.com"><img src="https://img.shields.io/badge/EMAIL-▸-f59e0b?style=flat-square&labelColor=000000&logo=gmail&logoColor=f59e0b" alt="Email" /></a>
+  <a href="mailto:nkhoihue@gmail.com"><img src="https://img.shields.io/badge/EMAIL-▸-FF6B00?style=flat-square&labelColor=000000&logo=gmail&logoColor=FF6B00" alt="Email" /></a>
 </p>
 
 <br />
@@ -85,24 +85,24 @@ I hold a **Master of Finance** from the University of Adelaide (GPA 6.375/7) and
   <tr>
     <td valign="top" width="50%">
       <a href="https://sampi314.github.io/Sam-Personal-Profile/projects/project-excel.html">
-        <img src="https://img.shields.io/badge/-_-f59e0b?style=flat-square" height="4" alt="" />
+        <img src="https://img.shields.io/badge/-_-FF6B00?style=flat-square" height="4" alt="" />
       </a>
       <h3><a href="https://sampi314.github.io/Sam-Personal-Profile/projects/project-excel.html">Matrix Manipulation: 8 Formula Approaches</a></h3>
       <p>Compare MMULT, SUMIFS, GROUPBY, and LAMBDA variants for aggregating categorised data into a summary matrix. Interactive demo lets you switch between all 8 methods.</p>
       <p>
-        <img src="https://img.shields.io/badge/EXCEL%20FORMULAS-1a1a24?style=flat-square&labelColor=f59e0b" alt="Excel Formulas" />
-        <img src="https://img.shields.io/badge/INTERACTIVE-1a1a24?style=flat-square&labelColor=f59e0b" alt="Interactive" />
+        <img src="https://img.shields.io/badge/EXCEL%20FORMULAS-1a1a1a?style=flat-square&labelColor=FF6B00" alt="Excel Formulas" />
+        <img src="https://img.shields.io/badge/INTERACTIVE-1a1a1a?style=flat-square&labelColor=FF6B00" alt="Interactive" />
       </p>
     </td>
     <td valign="top" width="50%">
       <a href="https://sampi314.github.io/Sam-Personal-Profile/projects/project-sum-to-target.html">
-        <img src="https://img.shields.io/badge/-_-f59e0b?style=flat-square" height="4" alt="" />
+        <img src="https://img.shields.io/badge/-_-FF6B00?style=flat-square" height="4" alt="" />
       </a>
       <h3><a href="https://sampi314.github.io/Sam-Personal-Profile/projects/project-sum-to-target.html">Solving the Subset Sum Problem with Excel</a></h3>
       <p>Find all combinations of numbers that sum to a target using SEQUENCE, BASE, MMULT, and FILTER. Three approaches from step-by-step to a single formula.</p>
       <p>
-        <img src="https://img.shields.io/badge/EXCEL%20ALGORITHMS-1a1a24?style=flat-square&labelColor=f59e0b" alt="Excel Algorithms" />
-        <img src="https://img.shields.io/badge/DYNAMIC%20ARRAYS-1a1a24?style=flat-square&labelColor=f59e0b" alt="Dynamic Arrays" />
+        <img src="https://img.shields.io/badge/EXCEL%20ALGORITHMS-1a1a1a?style=flat-square&labelColor=FF6B00" alt="Excel Algorithms" />
+        <img src="https://img.shields.io/badge/DYNAMIC%20ARRAYS-1a1a1a?style=flat-square&labelColor=FF6B00" alt="Dynamic Arrays" />
       </p>
     </td>
   </tr>
@@ -233,16 +233,16 @@ I hold a **Master of Finance** from the University of Adelaide (GPA 6.375/7) and
 
 <p>
   <sub><code>TECHNICAL</code></sub><br />
-  <img src="https://img.shields.io/badge/EXCEL-1a1a24?style=flat-square&labelColor=f59e0b" alt="Excel" />
-  <img src="https://img.shields.io/badge/VBA-1a1a24?style=flat-square&labelColor=f59e0b" alt="VBA" />
-  <img src="https://img.shields.io/badge/POWER%20QUERY-1a1a24?style=flat-square&labelColor=f59e0b" alt="Power Query" />
-  <img src="https://img.shields.io/badge/POWER%20BI-1a1a24?style=flat-square&labelColor=f59e0b" alt="Power BI" />
-  <img src="https://img.shields.io/badge/VB.NET-1a1a24?style=flat-square&labelColor=f59e0b" alt="VB.NET" />
-  <img src="https://img.shields.io/badge/FINANCIAL%20MODELING-1a1a24?style=flat-square&labelColor=f59e0b" alt="Financial Modeling" />
-  <img src="https://img.shields.io/badge/DATA%20VISUALIZATION-1a1a24?style=flat-square&labelColor=f59e0b" alt="Data Visualization" />
-  <img src="https://img.shields.io/badge/POWER%20AUTOMATE-1a1a24?style=flat-square&labelColor=f59e0b" alt="Power Automate" />
-  <img src="https://img.shields.io/badge/RSTUDIO-1a1a24?style=flat-square&labelColor=f59e0b" alt="RStudio" />
-  <img src="https://img.shields.io/badge/DATA%20ANALYSIS-1a1a24?style=flat-square&labelColor=f59e0b" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/EXCEL-1a1a1a?style=flat-square&labelColor=FF6B00" alt="Excel" />
+  <img src="https://img.shields.io/badge/VBA-1a1a1a?style=flat-square&labelColor=FF6B00" alt="VBA" />
+  <img src="https://img.shields.io/badge/POWER%20QUERY-1a1a1a?style=flat-square&labelColor=FF6B00" alt="Power Query" />
+  <img src="https://img.shields.io/badge/POWER%20BI-1a1a1a?style=flat-square&labelColor=FF6B00" alt="Power BI" />
+  <img src="https://img.shields.io/badge/VB.NET-1a1a1a?style=flat-square&labelColor=FF6B00" alt="VB.NET" />
+  <img src="https://img.shields.io/badge/FINANCIAL%20MODELING-1a1a1a?style=flat-square&labelColor=FF6B00" alt="Financial Modeling" />
+  <img src="https://img.shields.io/badge/DATA%20VISUALIZATION-1a1a1a?style=flat-square&labelColor=FF6B00" alt="Data Visualization" />
+  <img src="https://img.shields.io/badge/POWER%20AUTOMATE-1a1a1a?style=flat-square&labelColor=FF6B00" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/RSTUDIO-1a1a1a?style=flat-square&labelColor=FF6B00" alt="RStudio" />
+  <img src="https://img.shields.io/badge/DATA%20ANALYSIS-1a1a1a?style=flat-square&labelColor=FF6B00" alt="Data Analysis" />
 </p>
 
 <br />
@@ -297,14 +297,14 @@ I hold a **Master of Finance** from the University of Adelaide (GPA 6.375/7) and
   <tr>
     <td colspan="2" align="center" valign="top">
       <a href="https://git.io/streak-stats">
-        <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Sampi314&hide_border=true&background=000000&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=f59e0b&sideLabels=f59e0b&dates=AAAAAA" alt="GitHub Streak" />
+        <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Sampi314&hide_border=true&background=0d1117&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=AAAAAA" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sampi314&bg_color=000000&color=f59e0b&line=f59e0b&point=ffffff&area=true&area_color=f59e0b&hide_border=true&custom_title=COMMIT%20ACTIVITY%20%2F%2F%20LAST%2031%20DAYS&radius=8" alt="Commit activity graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sampi314&bg_color=0d1117&color=FF6B00&line=FF6B00&point=ffffff&area=true&area_color=FF6B00&hide_border=true&custom_title=COMMIT%20ACTIVITY%20%2F%2F%20LAST%2031%20DAYS&radius=8" alt="Commit activity graph" />
       </a>
     </td>
   </tr>
@@ -381,4 +381,4 @@ I hold a **Master of Finance** from the University of Adelaide (GPA 6.375/7) and
   <em>"The best models aren't just accurate — they're auditable, maintainable, and tell their story without explanation."</em>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:1a1a24,100:000000&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:1a1a1a,100:000000&height=120&section=footer" alt="footer" />
