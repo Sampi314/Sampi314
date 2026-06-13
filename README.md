@@ -11,6 +11,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:FF6B00&height=200&section=header&text=SAM%20NGO&fontSize=68&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=//%20finance%20·%20automation%20·%20ai&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn" alt="Sam Ngo banner" />
 </a>
 
+<!-- ──────────────────────  TERMINAL SIGNATURE  ────────────────────── -->
+
+<div align="center">
+
+```
+┌─[ sam@sumproduct ]──────────────────────────────────┐
+│  senior analyst · engineering the finance workflow  │
+└─────────────────────────────────────────────────────┘
+```
+
+</div>
+
 <!-- ──────────────────────  TYPING HERO  ────────────────────── -->
 
 <p align="center">
@@ -56,8 +68,6 @@
 
 <!-- ──────────────────────  ANIMATED DIVIDER  ────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF6B00,100:000000&height=2" alt="" width="100%" />
-
 <!-- ──────────────────────  TAGLINE STRIP  ────────────────────── -->
 
 <p align="center">
@@ -81,8 +91,6 @@
 </p>
 
 **Senior Analyst at [SumProduct](https://www.sumproduct.com)** in Sydney — I build financial models, automate workflows, and turn complex data into clear visuals across infrastructure, energy, real estate, and government. **Master of Finance** (Adelaide, GPA 6.375/7), **Bachelor of International Finance** (I-Shou, Taiwan, GPA 4.0/4, Top 5%). Lately: productising AI tooling so the patterns scale beyond me.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF6B00,100:000000&height=2" alt="" width="100%" />
 
 <!-- ──────────────────────  FEATURED WORK — LIVE PIN CARDS  ────────────────────── -->
 
@@ -122,8 +130,6 @@
 </div>
 
 <p align="center"><sub><i>Demo pages: <a href="https://sampi314.github.io/Sam-Personal-Profile/projects/project-excel.html">Matrix Manipulation</a> · <a href="https://sampi314.github.io/Sam-Personal-Profile/projects/project-sum-to-target.html">Subset Sum</a></i></sub></p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF6B00,100:000000&height=2" alt="" width="100%" />
 
 <!-- ──────────────────────  EXPERIENCE — CURRENT ROLE EXPANDED  ────────────────────── -->
 
@@ -175,8 +181,6 @@
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF6B00,100:000000&height=2" alt="" width="100%" />
-
 <!-- ──────────────────────  EDUCATION  ────────────────────── -->
 
 ## // Education
@@ -195,8 +199,6 @@
     <td valign="top"><b>Bachelor of International Finance</b> · GPA 4.00/4 · Top 5% · Dean's List</td>
   </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF6B00,100:000000&height=2" alt="" width="100%" />
 
 <!-- ──────────────────────  SKILLS  ────────────────────── -->
 
@@ -219,8 +221,6 @@
   <img src="https://img.shields.io/badge/DATA%20VISUALIZATION-1a1a1a?style=flat-square&labelColor=FF6B00" alt="Data Visualization" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF6B00,100:000000&height=2" alt="" width="100%" />
-
 <!-- ──────────────────────  CREDENTIALS  ────────────────────── -->
 
 ## // Credentials
@@ -229,13 +229,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=560&lines=%3E+papers+%26+prizes" alt="Credentials typing" />
 </p>
 
-- `★` Corporate Financial Statement Analysis
-- `★` R Programming
-- `★` UT.5.05x · Linear Algebra: Foundations to Frontiers
-- `✦` Dean's List Award ×2
-- `✦` Honorary Member · Golden Key Society
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF6B00,100:000000&height=2" alt="" width="100%" />
+- `▸` Corporate Financial Statement Analysis
+- `▸` R Programming
+- `▸` UT.5.05x · Linear Algebra: Foundations to Frontiers
+- `▸` Dean's List Award ×2
+- `▸` Honorary Member · Golden Key Society
 
 <!-- ──────────────────────  LANGUAGES  ────────────────────── -->
 
