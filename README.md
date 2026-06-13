@@ -53,6 +53,24 @@
   <a href="mailto:nkhoihue@gmail.com"><img src="https://img.shields.io/badge/EMAIL-▸-FF6B00?style=flat-square&labelColor=000000&logo=gmail&logoColor=FF6B00" alt="Email" /></a>
 </p>
 
+<!-- ──────────────────────  JUMP BAR  ────────────────────── -->
+
+<p align="center">
+  <a href="#about"><img src="https://img.shields.io/badge/▸_about-1a1a1a?style=flat-square&labelColor=FF6B00" alt="about" /></a>
+  &nbsp;
+  <a href="#work"><img src="https://img.shields.io/badge/▸_work-1a1a1a?style=flat-square&labelColor=FF6B00" alt="work" /></a>
+  &nbsp;
+  <a href="#experience"><img src="https://img.shields.io/badge/▸_experience-1a1a1a?style=flat-square&labelColor=FF6B00" alt="experience" /></a>
+  &nbsp;
+  <a href="#education"><img src="https://img.shields.io/badge/▸_education-1a1a1a?style=flat-square&labelColor=FF6B00" alt="education" /></a>
+  &nbsp;
+  <a href="#skills"><img src="https://img.shields.io/badge/▸_skills-1a1a1a?style=flat-square&labelColor=FF6B00" alt="skills" /></a>
+  &nbsp;
+  <a href="#credentials"><img src="https://img.shields.io/badge/▸_credentials-1a1a1a?style=flat-square&labelColor=FF6B00" alt="credentials" /></a>
+  &nbsp;
+  <a href="#languages"><img src="https://img.shields.io/badge/▸_languages-1a1a1a?style=flat-square&labelColor=FF6B00" alt="languages" /></a>
+</p>
+
 <!-- ──────────────────────  METRICS — ABOVE THE FOLD  ────────────────────── -->
 
 <div align="center">
@@ -69,6 +87,8 @@
 
 <!-- ──────────────────────  ABOUT — ONE PARAGRAPH  ────────────────────── -->
 
+<a id="about"></a>
+
 ## // About
 
 <p align="center">
@@ -78,6 +98,8 @@
 **Senior Analyst at [SumProduct](https://www.sumproduct.com)** in Sydney — I build financial models, automate workflows, and turn complex data into clear visuals across infrastructure, energy, real estate, and government. **Master of Finance** (Adelaide, GPA 6.375/7), **Bachelor of International Finance** (I-Shou, Taiwan, GPA 4.0/4, Top 5%). Lately: productising AI tooling so the patterns scale beyond me.
 
 <!-- ──────────────────────  FEATURED WORK — LIVE PIN CARDS  ────────────────────── -->
+
+<a id="work"></a>
 
 ## // Featured Work
 
@@ -117,6 +139,8 @@
 <p align="center"><sub><i>Demo pages: <a href="https://sampi314.github.io/Sam-Personal-Profile/projects/project-excel.html">Matrix Manipulation</a> · <a href="https://sampi314.github.io/Sam-Personal-Profile/projects/project-sum-to-target.html">Subset Sum</a></i></sub></p>
 
 <!-- ──────────────────────  EXPERIENCE — CURRENT ROLE EXPANDED  ────────────────────── -->
+
+<a id="experience"></a>
 
 ## // Experience
 
@@ -168,6 +192,8 @@
 
 <!-- ──────────────────────  EDUCATION  ────────────────────── -->
 
+<a id="education"></a>
+
 ## // Education
 
 <p align="center">
@@ -186,6 +212,8 @@
 </table>
 
 <!-- ──────────────────────  SKILLS  ────────────────────── -->
+
+<a id="skills"></a>
 
 ## // Skills
 
@@ -208,6 +236,8 @@
 
 <!-- ──────────────────────  CREDENTIALS  ────────────────────── -->
 
+<a id="credentials"></a>
+
 ## // Credentials
 
 <p align="center">
@@ -221,6 +251,8 @@
 - `▸` Honorary Member · Golden Key Society
 
 <!-- ──────────────────────  LANGUAGES  ────────────────────── -->
+
+<a id="languages"></a>
 
 ## // Languages
 
@@ -286,10 +318,6 @@
 ## // Currently Exploring
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=560&lines=%3E+what%27s+in+my+browser+tabs;%3E+the+next+thing+i%27m+learning" alt="Currently Exploring typing" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=800&color=FF6B00&center=true&vCenter=true&width=760&lines=01.+Microsoft+AI+Tour+2026+%E2%80%94+MCP+%C2%B7+Copilot+agent+mode+%C2%B7+Foundry;02.+Anthropic+plugins+for+consulting+workflows;03.+LLMs+from+scratch+%E2%80%94+intuition+for+daily+tools;04.+Spec-Driven+Development+with+spec-kit;05.+Voice+%26+multimodal+AI+%E2%80%94+Whisper+%C2%B7+VibeVoice+%C2%B7+VieNeu-TTS" alt="Currently exploring" />
 </p>
 
@@ -320,5 +348,15 @@
 <p align="center">
   <em>"The best models aren't just accurate — they're auditable, maintainable, and tell their story without explanation."</em>
 </p>
+
+<div align="center">
+
+```
+┌─[ end of transmission ]─────────────────────────────┐
+│  github.com/sampi314 · let's build something good   │
+└─────────────────────────────────────────────────────┘
+```
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:1a1a1a,100:000000&height=120&section=footer" alt="footer" />
