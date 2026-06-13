@@ -1,119 +1,295 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════════╗
   ║  Sam Ngo · github.com/Sampi314                                       ║
-  ║  Mission Control aesthetic · Neon Orange + Black                     ║
-  ║  Accent: #FF6B00 · Surface: #0d1117                                  ║
+  ║  Mirrors sampi314.github.io/Sam-Personal-Profile                     ║
+  ║  Accent: #f59e0b · Hover: #fbbf24 · Surface: #000000                 ║
   ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
 <!-- ──────────────────────  ANIMATED BANNER  ────────────────────── -->
 
 <a href="https://github.com/Sampi314">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:FF6B00&height=200&section=header&text=SAM%20NGO&fontSize=68&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=//%20finance%20·%20automation%20·%20ai&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn" alt="Sam Ngo banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a24,100:f59e0b&height=200&section=header&text=SAM%20NGO&fontSize=68&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=//%20finance%20·%20automation%20·%20ai&descSize=18&descAlign=50&descAlignY=62&animation=fadeIn" alt="Sam Ngo banner" />
 </a>
 
 <!-- ──────────────────────  TYPING READOUT  ────────────────────── -->
 
 <p align="center">
   <a href="https://github.com/Sampi314">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=FF6B00&center=true&vCenter=true&width=760&lines=%3E+Senior+Analyst+%40+SumProduct%2C+Sydney+%F0%9F%87%A6%F0%9F%87%BA;%3E+Excel+%E2%80%A2+VBA+%E2%80%A2+Power+BI+%E2%80%A2+AI+tooling+for+consulting;%3E+30%2B+VBA+tools+%E2%80%A2+50%2B+models+%E2%80%A2+20%2B+published+articles;%3E+Where+consulting+meets+code" alt="Typing readout" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=f59e0b&center=true&vCenter=true&width=760&lines=%3E+Senior+Analyst+%40+SumProduct%2C+Sydney+%F0%9F%87%A6%F0%9F%87%BA;%3E+Excel+%E2%80%A2+VBA+%E2%80%A2+Power+BI+%E2%80%A2+AI+tooling+for+consulting;%3E+30%2B+VBA+tools+%E2%80%A2+50%2B+models+%E2%80%A2+20%2B+published+articles;%3E+Where+consulting+meets+code" alt="Typing readout" />
   </a>
 </p>
 
 <!-- ──────────────────────  STATUS BAR  ────────────────────── -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-FF6B00?style=flat-square&labelColor=000000" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-f59e0b?style=flat-square&labelColor=000000" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/LOC-SYDNEY%20AU-FF6B00?style=flat-square&labelColor=000000&logo=googlemaps&logoColor=FF6B00" alt="Location" />
+  <img src="https://img.shields.io/badge/LOC-SYDNEY%20AU-f59e0b?style=flat-square&labelColor=000000&logo=googlemaps&logoColor=f59e0b" alt="Location" />
   &nbsp;
-  <img src="https://img.shields.io/badge/TZ-UTC%2B11-FF6B00?style=flat-square&labelColor=000000" alt="Timezone" />
+  <img src="https://img.shields.io/badge/TZ-UTC%2B11-f59e0b?style=flat-square&labelColor=000000" alt="Timezone" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Sampi314&label=VIEWS&color=FF6B00&style=flat-square&labelColor=000000" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sampi314&label=VIEWS&color=f59e0b&style=flat-square&labelColor=000000" alt="Profile views" />
 </p>
 
 <!-- ──────────────────────  CONNECT BAR  ────────────────────── -->
 
 <p align="center">
-  <a href="https://sampi314.github.io/Sam-Personal-Profile/"><img src="https://img.shields.io/badge/PORTFOLIO-▸-FF6B00?style=flat-square&labelColor=000000&logo=githubpages&logoColor=FF6B00" alt="Portfolio" /></a>
+  <a href="https://sampi314.github.io/Sam-Personal-Profile/assets/Sam_Ngo_CV.pdf"><img src="https://img.shields.io/badge/DOWNLOAD_CV-▸-f59e0b?style=flat-square&labelColor=000000&logo=adobeacrobatreader&logoColor=f59e0b" alt="Download CV" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/nkhoihue/"><img src="https://img.shields.io/badge/LINKEDIN-▸-FF6B00?style=flat-square&labelColor=000000&logo=linkedin&logoColor=FF6B00" alt="LinkedIn" /></a>
+  <a href="https://sampi314.github.io/Sam-Personal-Profile/"><img src="https://img.shields.io/badge/PORTFOLIO-▸-f59e0b?style=flat-square&labelColor=000000&logo=githubpages&logoColor=f59e0b" alt="Portfolio" /></a>
   &nbsp;
-  <a href="mailto:nkhoihue@gmail.com"><img src="https://img.shields.io/badge/EMAIL-▸-FF6B00?style=flat-square&labelColor=000000&logo=gmail&logoColor=FF6B00" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/nkhoihue/"><img src="https://img.shields.io/badge/LINKEDIN-▸-f59e0b?style=flat-square&labelColor=000000&logo=linkedin&logoColor=f59e0b" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:nkhoihue@gmail.com"><img src="https://img.shields.io/badge/EMAIL-▸-f59e0b?style=flat-square&labelColor=000000&logo=gmail&logoColor=f59e0b" alt="Email" /></a>
 </p>
 
 <br />
 
 <!-- ──────────────────────  ABOUT  ────────────────────── -->
 
-## ▸ ABOUT
+## // About
 
-```
-> Senior Analyst at SumProduct, Sydney
-> Building the bridge between consulting workflows and code
-```
+I'm a **Senior Analyst at [SumProduct](https://www.sumproduct.com)** in Sydney, where I build financial models, automate workflows, and turn complex data into clear visuals for clients across infrastructure, energy, real estate, and government.
 
-I'm a **Senior Analyst at [SumProduct](https://www.sumproduct.com)** in Sydney, where I build financial models, automate consulting workflows, and turn complex data into clear visuals for clients across infrastructure, energy, real estate, and government.
+What I enjoy most is **finding the engineering in finance** — writing VBA tools that save hours of manual work, designing formulas that replace entire processes, and building dashboards that tell a story at a glance. I've published 30+ tools and articles on Excel, VBA, and Power BI.
 
-What I love is finding the **leverage points in finance** — the moments where one VBA tool, one formula, or one dashboard replaces an entire process. Lately I've been productising that work as AI tooling so the patterns scale beyond me.
-
-➤ Full portfolio: **[sampi314.github.io/Sam-Personal-Profile](https://sampi314.github.io/Sam-Personal-Profile/)**
+I hold a **Master of Finance** from the University of Adelaide (GPA 6.375/7) and a **Bachelor of International Finance** from I-Shou University, Taiwan (GPA 4.0/4, Top 5%). When I'm not in a spreadsheet, I'm exploring how AI can make consulting workflows faster and more consistent.
 
 <br />
 
-<!-- ──────────────────────  NOW SHIPPING  ────────────────────── -->
+<!-- ──────────────────────  METRICS  ────────────────────── -->
 
-## ▸ NOW SHIPPING
+## // Metrics
 
-| | Project |
-|:---:|:---|
-| ► | **Multi-agent Excel audit framework** — 10 audit dimensions: formula logic, error detection, formatting, text quality, efficiency, hyperlinks, VBA, Power Query, dependency mapping |
-| ► | **7-phase financial modelling suite** — productised Claude Code skills covering scoping → delivery for consulting models |
-| ► | **Editorial writing auditor · DAX blog generator · book authoring assistant** — internal tools that ship and save real hours |
-| ► | **Cross-platform AI integration** — evaluating Claude, ChatGPT, and Gemini into team workflows |
-| ► | **By the numbers** — `30+ VBA tools` · `50+ financial models` · `20+ articles` · `3+ years at SumProduct` |
+<div align="center">
 
-<br />
+<table border="0">
+  <tr>
+    <td align="center" width="25%"><h1>30+</h1><sub><code>VBA TOOLS BUILT</code></sub></td>
+    <td align="center" width="25%"><h1>50+</h1><sub><code>FINANCIAL MODELS</code></sub></td>
+    <td align="center" width="25%"><h1>20+</h1><sub><code>PUBLISHED ARTICLES</code></sub></td>
+    <td align="center" width="25%"><h1>3+</h1><sub><code>YEARS AT SUMPRODUCT</code></sub></td>
+  </tr>
+</table>
 
-<!-- ──────────────────────  STACK  ────────────────────── -->
-
-## ▸ STACK
-
-<p>
-  <strong><sub>SPREADSHEET · BI</sub></strong><br />
-  <img src="https://img.shields.io/badge/Excel-ffffff?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMzIgMzIiPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0iU1ZHU3VVaWkwcHQiIHgxPSI0LjQ5NCIgeDI9IjEzLjgzMiIgeTE9Ii0yMDkyLjA4NiIgeTI9Ii0yMDc1LjkxNCIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgwIDIxMDApIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI%2BPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMTg4ODRmIi8%2BPHN0b3Agb2Zmc2V0PSIuNSIgc3RvcC1jb2xvcj0iIzExN2U0MyIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzBiNjYzMSIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxwYXRoIGZpbGw9IiMxODVjMzciIGQ9Ik0xOS41ODEgMTUuMzVMOC41MTIgMTMuNHYxNC40MDlBMS4xOSAxLjE5IDAgMCAwIDkuNzA1IDI5aDE5LjFBMS4xOSAxLjE5IDAgMCAwIDMwIDI3LjgwOVYyMi41WiIvPjxwYXRoIGZpbGw9IiMyMWEzNjYiIGQ9Ik0xOS41ODEgM0g5LjcwNWExLjE5IDEuMTkgMCAwIDAtMS4xOTMgMS4xOTFWOS41TDE5LjU4MSAxNmw1Ljg2MSAxLjk1TDMwIDE2VjkuNVoiLz48cGF0aCBmaWxsPSIjMTA3YzQxIiBkPSJNOC41MTIgOS41aDExLjA2OVYxNkg4LjUxMloiLz48cGF0aCBkPSJNMTYuNDM0IDguMkg4LjUxMnYxNi4yNWg3LjkyMmExLjIgMS4yIDAgMCAwIDEuMTk0LTEuMTkxVjkuMzkxQTEuMiAxLjIgMCAwIDAgMTYuNDM0IDguMiIgb3BhY2l0eT0iLjEiLz48cGF0aCBkPSJNMTUuNzgzIDguODVIOC41MTJWMjUuMWg3LjI3MWExLjIgMS4yIDAgMCAwIDEuMTk0LTEuMTkxVjEwLjA0MWExLjIgMS4yIDAgMCAwLTEuMTk0LTEuMTkxIiBvcGFjaXR5PSIuMiIvPjxwYXRoIGQ9Ik0xNS43ODMgOC44NUg4LjUxMlYyMy44aDcuMjcxYTEuMiAxLjIgMCAwIDAgMS4xOTQtMS4xOTFWMTAuMDQxYTEuMiAxLjIgMCAwIDAtMS4xOTQtMS4xOTEiIG9wYWNpdHk9Ii4yIi8%2BPHBhdGggZD0iTTE1LjEzMiA4Ljg1aC02LjYyVjIzLjhoNi42MmExLjIgMS4yIDAgMCAwIDEuMTk0LTEuMTkxVjEwLjA0MWExLjIgMS4yIDAgMCAwLTEuMTk0LTEuMTkxIiBvcGFjaXR5PSIuMiIvPjxwYXRoIGZpbGw9InVybCgjU1ZHU3VVaWkwcHQpIiBkPSJNMy4xOTQgOC44NWgxMS45MzhhMS4xOTMgMS4xOTMgMCAwIDEgMS4xOTQgMS4xOTF2MTEuOTE4YTEuMTkzIDEuMTkzIDAgMCAxLTEuMTk0IDEuMTkxSDMuMTk0QTEuMTkgMS4xOSAwIDAgMSAyIDIxLjk1OVYxMC4wNDFBMS4xOSAxLjE5IDAgMCAxIDMuMTk0IDguODUiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJtNS43IDE5Ljg3M2wyLjUxMS0zLjg4NGwtMi4zLTMuODYyaDEuODQ3TDkuMDEzIDE0LjZjLjExNi4yMzQuMi40MDguMjM4LjUyNGguMDE3cS4xMjMtLjI4MS4yNi0uNTQ2bDEuMzQyLTIuNDQ3aDEuN2wtMi4zNTkgMy44NGwyLjQxOSAzLjkwNWgtMS44MDlsLTEuNDUtMi43MTFBMi40IDIuNCAwIDAgMSA5LjIgMTYuOGgtLjAyNGExLjcgMS43IDAgMCAxLS4xNjguMzUxbC0xLjQ5MyAyLjcyMloiLz48cGF0aCBmaWxsPSIjMzNjNDgxIiBkPSJNMjguODA2IDNoLTkuMjI1djYuNUgzMFY0LjE5MUExLjE5IDEuMTkgMCAwIDAgMjguODA2IDMiLz48cGF0aCBmaWxsPSIjMTA3YzQxIiBkPSJNMTkuNTgxIDE2SDMwdjYuNUgxOS41ODFaIi8%2BPC9zdmc%2B&logoColor=FF6B00" />
-  <img src="https://img.shields.io/badge/VBA-ffffff?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMTI4IDEyOCI%2BPHBhdGggZmlsbD0iIzAwNGU4YyIgZD0iTTEyOCA2My4xMjFhNjMuMTIgNjMuMTIgMCAwIDEtNjMuMTIxIDYzLjEyMkE2My4xMiA2My4xMiAwIDAgMSAxLjc1NyA2My4xMjFBNjMuMTIgNjMuMTIgMCAwIDEgNjQuODc5IDBBNjMuMTIgNjMuMTIgMCAwIDEgMTI4IDYzLjEyMSIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0yMS4xMjcgMTcuNzUzYTYzLjEyMSA2My4xMjEgMCAxIDAgODkuMTIgODkuMTJ6IiBvcGFjaXR5PSIuMSIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik02MS4xNyAzOC4xNjhMNDcuMTI1IDc3LjYxOWEyMS43IDIxLjcgMCAwIDAtMS4xMDQgNC40OThoLS4xMzhhMjMuNCAyMy40IDAgMCAwLTEuMDA2LTQuMzk4TDMxLjA2OCAzOC4yNjhIMjQuNThsMTguMDMgNDkuNzA5aDYuNDg4bDE4LjMyNi00OS43MXptMTMuNDE0LjF2NDkuNzA5aDE0LjQ0YTE3LjA0IDE3LjA0IDAgMCAwIDExLjUzOC0zLjk0NmExMyAxMyAwIDAgMCA0LjU3Ny0xMC4zMzZhMTEuNjggMTEuNjggMCAwIDAtMy4wMTgtOC4zNDVhMTIuNjQgMTIuNjQgMCAwIDAtOC4wNDktMy43ODd2LS4xMzdhMTIuMzUgMTIuMzUgMCAwIDAgNi4zMTMtNC40NGExMi4xIDEyLjEgMCAwIDAgMi4zNDctNy4zMzhhMTAuMiAxMC4yIDAgMCAwLTMuNzg3LTguMjI0YTE1LjQ3IDE1LjQ3IDAgMCAwLTEwLjIxOC0zLjE1NnptMTIuNTI1IDUuMTg3cTkuNTI4IDAgOS41MjggNy4yNGE4LjAzIDguMDMgMCAwIDEtMi43NDIgNi41MDhhMTEuMzIgMTEuMzIgMCAwIDEtNy40NzcgMi4zNjdoLTUuOTE2VjQzLjUxNHpNODAuNTAyIDY0LjhsNi42MDcuMDJxMTEuOTkzIDAgMTEuOTkzIDguNzk2YTguMyA4LjMgMCAwIDEtMi44MiA2LjY0OWExMS44NCAxMS44NCAwIDAgMS03Ljg5MSAyLjQyNWgtNy44ODl6Ii8%2BPC9zdmc%2B&logoColor=FF6B00" />
-  <img src="https://img.shields.io/badge/Power_BI-ffffff?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIwLjc1ZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjU2IDM0MiI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJTVkdDZGdobmJsRiIgeDE9IjQyLjU5MyUiIHgyPSI1Ny4yNDUlIiB5MT0iMCUiIHkyPSI5My4xNzQlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZTZhZDEwIi8%2BPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYzg3ZTBlIi8%2BPC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9IlNWRzV0YXBLZG9mIiB4MT0iNDAuMTIyJSIgeDI9IjYyLjAyOCUiIHkxPSIwJSIgeTI9Ijk1LjU5MiUiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmNmQ3NTEiLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNlNmFkMTAiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0iU1ZHUnZqd3NjVnAiIHgxPSIyNy43NzQlIiB4Mj0iNTUuMDEyJSIgeTE9IjAlIiB5Mj0iOTYuODI4JSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Y5ZTU4OSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2Y2ZDc1MSIvPjwvbGluZWFyR3JhZGllbnQ%2BPHBhdGggaWQ9IlNWR3ZBdmdOYzRUIiBkPSJNMTQyLjIyMiAxNC4yMjJDMTQyLjIyMiA2LjM2OCAxNDguNTkgMCAxNTYuNDQ0IDBoODUuMzM0QzI0OS42MzIgMCAyNTYgNi4zNjggMjU2IDE0LjIyMnYzMTIuODljMCA3Ljg1NC02LjM2OCAxNC4yMjEtMTQuMjIyIDE0LjIyMUgxNC4yMjJDNi4zNjggMzQxLjMzMyAwIDMzNC45NjYgMCAzMjcuMTExVjE4NC44OWMwLTcuODU1IDYuMzY4LTE0LjIyMiAxNC4yMjItMTQuMjIyaDU2Ljg5Vjk5LjU1NmMwLTcuODU1IDYuMzY3LTE0LjIyMyAxNC4yMjItMTQuMjIzaDU2Ljg4OHoiLz48L2RlZnM%2BPG1hc2sgaWQ9IlNWR3ZDVjV3Y2xMIiBmaWxsPSIjZmZmIj48dXNlIGhyZWY9IiNTVkd2QXZnTmM0VCIvPjwvbWFzaz48cGF0aCBmaWxsPSJ1cmwoI1NWR0NkZ2huYmxGKSIgZD0iTTI1NiAwdjM0MS4zMzNIMTQyLjIyMlYweiIgbWFzaz0idXJsKCNTVkd2Q1Y1d2NsTCkiLz48cGF0aCBmaWxsLW9wYWNpdHk9Ii4yIiBkPSJNMTg0Ljg4OSAxMDAuOTc4djI0MS43NzhINzEuMTF2LTI1Nmg5OS41NTZjNy44NTQgMCAxNC4yMjIgNi4zNjcgMTQuMjIyIDE0LjIyMiIgbWFzaz0idXJsKCNTVkd2Q1Y1d2NsTCkiLz48cGF0aCBmaWxsLW9wYWNpdHk9Ii4xOCIgZD0iTTE4NC44ODkgMTA2LjY2N3YyNDEuNzc3SDcxLjExdi0yNTZoOTkuNTU2YzcuODU0IDAgMTQuMjIyIDYuMzY4IDE0LjIyMiAxNC4yMjMiIG1hc2s9InVybCgjU1ZHdkNWNXdjbEwpIi8%2BPHBhdGggZmlsbD0idXJsKCNTVkc1dGFwS2RvZikiIGQ9Ik0xODQuODg5IDk5LjU1NnYyNDEuNzc3SDcxLjExdi0yNTZoOTkuNTU2YzcuODU0IDAgMTQuMjIyIDYuMzY4IDE0LjIyMiAxNC4yMjMiIG1hc2s9InVybCgjU1ZHdkNWNXdjbEwpIi8%2BPHBhdGggZmlsbD0idXJsKCNTVkdSdmp3c2NWcCkiIGQ9Ik0wIDE3MC42Njd2MTcwLjY2NmgxMTMuNzc4VjE4NC44OWMwLTcuODU1LTYuMzY4LTE0LjIyMi0xNC4yMjItMTQuMjIyeiIgbWFzaz0idXJsKCNTVkd2Q1Y1d2NsTCkiLz48L3N2Zz4%3D&logoColor=FF6B00" />
-  <img src="https://img.shields.io/badge/DAX-ffffff?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIwLjc1ZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjU2IDM0MiI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJTVkdDZGdobmJsRiIgeDE9IjQyLjU5MyUiIHgyPSI1Ny4yNDUlIiB5MT0iMCUiIHkyPSI5My4xNzQlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZTZhZDEwIi8%2BPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYzg3ZTBlIi8%2BPC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9IlNWRzV0YXBLZG9mIiB4MT0iNDAuMTIyJSIgeDI9IjYyLjAyOCUiIHkxPSIwJSIgeTI9Ijk1LjU5MiUiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmNmQ3NTEiLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNlNmFkMTAiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0iU1ZHUnZqd3NjVnAiIHgxPSIyNy43NzQlIiB4Mj0iNTUuMDEyJSIgeTE9IjAlIiB5Mj0iOTYuODI4JSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Y5ZTU4OSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2Y2ZDc1MSIvPjwvbGluZWFyR3JhZGllbnQ%2BPHBhdGggaWQ9IlNWR3ZBdmdOYzRUIiBkPSJNMTQyLjIyMiAxNC4yMjJDMTQyLjIyMiA2LjM2OCAxNDguNTkgMCAxNTYuNDQ0IDBoODUuMzM0QzI0OS42MzIgMCAyNTYgNi4zNjggMjU2IDE0LjIyMnYzMTIuODljMCA3Ljg1NC02LjM2OCAxNC4yMjEtMTQuMjIyIDE0LjIyMUgxNC4yMjJDNi4zNjggMzQxLjMzMyAwIDMzNC45NjYgMCAzMjcuMTExVjE4NC44OWMwLTcuODU1IDYuMzY4LTE0LjIyMiAxNC4yMjItMTQuMjIyaDU2Ljg5Vjk5LjU1NmMwLTcuODU1IDYuMzY3LTE0LjIyMyAxNC4yMjItMTQuMjIzaDU2Ljg4OHoiLz48L2RlZnM%2BPG1hc2sgaWQ9IlNWR3ZDVjV3Y2xMIiBmaWxsPSIjZmZmIj48dXNlIGhyZWY9IiNTVkd2QXZnTmM0VCIvPjwvbWFzaz48cGF0aCBmaWxsPSJ1cmwoI1NWR0NkZ2huYmxGKSIgZD0iTTI1NiAwdjM0MS4zMzNIMTQyLjIyMlYweiIgbWFzaz0idXJsKCNTVkd2Q1Y1d2NsTCkiLz48cGF0aCBmaWxsLW9wYWNpdHk9Ii4yIiBkPSJNMTg0Ljg4OSAxMDAuOTc4djI0MS43NzhINzEuMTF2LTI1Nmg5OS41NTZjNy44NTQgMCAxNC4yMjIgNi4zNjcgMTQuMjIyIDE0LjIyMiIgbWFzaz0idXJsKCNTVkd2Q1Y1d2NsTCkiLz48cGF0aCBmaWxsLW9wYWNpdHk9Ii4xOCIgZD0iTTE4NC44ODkgMTA2LjY2N3YyNDEuNzc3SDcxLjExdi0yNTZoOTkuNTU2YzcuODU0IDAgMTQuMjIyIDYuMzY4IDE0LjIyMiAxNC4yMjMiIG1hc2s9InVybCgjU1ZHdkNWNXdjbEwpIi8%2BPHBhdGggZmlsbD0idXJsKCNTVkc1dGFwS2RvZikiIGQ9Ik0xODQuODg5IDk5LjU1NnYyNDEuNzc3SDcxLjExdi0yNTZoOTkuNTU2YzcuODU0IDAgMTQuMjIyIDYuMzY4IDE0LjIyMiAxNC4yMjMiIG1hc2s9InVybCgjU1ZHdkNWNXdjbEwpIi8%2BPHBhdGggZmlsbD0idXJsKCNTVkdSdmp3c2NWcCkiIGQ9Ik0wIDE3MC42Njd2MTcwLjY2NmgxMTMuNzc4VjE4NC44OWMwLTcuODU1LTYuMzY4LTE0LjIyMi0xNC4yMjItMTQuMjIyeiIgbWFzaz0idXJsKCNTVkd2Q1Y1d2NsTCkiLz48L3N2Zz4%3D&logoColor=FF6B00" />
-  <img src="https://img.shields.io/badge/Power_Query-ffffff?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9ImN1cnJlbnRDb2xvciIgZD0iTTE3Ljc1IDIxaC01di04LjI1SDIxdjVBMy4yNSAzLjI1IDAgMCAxIDE3Ljc1IDIxTTIxIDExLjI1aC04LjI1VjNoNUEzLjI1IDMuMjUgMCAwIDEgMjEgNi4yNXptLTkuNzUgMFYzaC01QTMuMjUgMy4yNSAwIDAgMCAzIDYuMjV2NXpNMyAxMi43NXY1QTMuMjUgMy4yNSAwIDAgMCA2LjI1IDIxaDV2LTguMjV6Ii8%2BPC9zdmc%2B&logoColor=FF6B00" />
-  <img src="https://img.shields.io/badge/Power_Automate-ffffff?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9ImN1cnJlbnRDb2xvciIgZD0iTTE0LjA4IDguOGExLjc1IDEuNzUgMCAwIDAtMS4zMyAxLjd2M2EzLjI1IDMuMjUgMCAwIDEtMi44MTUgMy4yMjFBNC4wMDEgNC4wMDEgMCAxIDEgOS45MiAxNS4yYTEuNzUgMS43NSAwIDAgMCAxLjMzLTEuNjk5di0zYTMuMjUgMy4yNSAwIDAgMSAyLjgxNS0zLjIyMUE0LjAwMSA0LjAwMSAwIDAgMSAyMiA4YTQgNCAwIDAgMS03LjkyLjgiLz48L3N2Zz4%3D&logoColor=FF6B00" />
-</p>
-
-<p>
-  <strong><sub>LANGUAGES</sub></strong><br />
-  <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=FF6B00" />
-  <img src="https://img.shields.io/badge/VB.NET-ffffff?style=for-the-badge&logo=dotnet&logoColor=FF6B00" />
-  <img src="https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=r&logoColor=FF6B00" />
-  <img src="https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=FF6B00" />
-  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=FF6B00" />
-</p>
-
-<p>
-  <strong><sub>AI · TOOLING · WORKFLOW</sub></strong><br />
-  <img src="https://img.shields.io/badge/Claude-ffffff?style=for-the-badge&logo=anthropic&logoColor=FF6B00" />
-  <img src="https://img.shields.io/badge/ChatGPT-ffffff?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIwLjk5ZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjU2IDI2MCI%2BPHBhdGggZD0iTTIzOS4xODQgMTA2LjIwM2E2NC43MiA2NC43MiAwIDAgMC01LjU3Ni01My4xMDNDMjE5LjQ1MiAyOC40NTkgMTkxIDE1Ljc4NCAxNjMuMjEzIDIxLjc0QTY1LjU4NiA2NS41ODYgMCAwIDAgNTIuMDk2IDQ1LjIyYTY0LjcyIDY0LjcyIDAgMCAwLTQzLjIzIDMxLjM2Yy0xNC4zMSAyNC42MDItMTEuMDYxIDU1LjYzNCA4LjAzMyA3Ni43NGE2NC42NyA2NC42NyAwIDAgMCA1LjUyNSA1My4xMDJjMTQuMTc0IDI0LjY1IDQyLjY0NCAzNy4zMjQgNzAuNDQ2IDMxLjM2YTY0LjcyIDY0LjcyIDAgMCAwIDQ4Ljc1NCAyMS43NDRjMjguNDgxLjAyNSA1My43MTQtMTguMzYxIDYyLjQxNC00NS40ODFhNjQuNzcgNjQuNzcgMCAwIDAgNDMuMjI5LTMxLjM2YzE0LjEzNy0yNC41NTggMTAuODc1LTU1LjQyMy04LjA4My03Ni40ODNtLTk3LjU2IDEzNi4zMzhhNDguNCA0OC40IDAgMCAxLTMxLjEwNS0xMS4yNTVsMS41MzUtLjg3bDUxLjY3LTI5LjgyNWE4LjYgOC42IDAgMCAwIDQuMjQ3LTcuMzY3di03Mi44NWwyMS44NDUgMTIuNjM2Yy4yMTguMTExLjM3LjMyLjQwOS41NjN2NjAuMzY3Yy0uMDU2IDI2LjgxOC0yMS43ODMgNDguNTQ1LTQ4LjYwMSA0OC42MDFNMzcuMTU4IDE5Ny45M2E0OC4zNSA0OC4zNSAwIDAgMS01Ljc4MS0zMi41ODlsMS41MzQuOTIxbDUxLjcyMiAyOS44MjZhOC4zNCA4LjM0IDAgMCAwIDguNDQxIDBsNjMuMTgxLTM2LjQyNXYyNS4yMjFhLjg3Ljg3IDAgMCAxLS4zNTguNjY1bC01Mi4zMzUgMzAuMTg0Yy0yMy4yNTcgMTMuMzk4LTUyLjk3IDUuNDMxLTY2LjQwNC0xNy44MDNNMjMuNTQ5IDg1LjM4YTQ4LjUgNDguNSAwIDAgMSAyNS41OC0yMS4zMzN2NjEuMzlhOC4yOSA4LjI5IDAgMCAwIDQuMTk1IDcuMzE2bDYyLjg3NCAzNi4yNzJsLTIxLjg0NSAxMi42MzZhLjgyLjgyIDAgMCAxLS43NjcgMEw0MS4zNTMgMTUxLjUzYy0yMy4yMTEtMTMuNDU0LTMxLjE3MS00My4xNDQtMTcuODA0LTY2LjQwNXptMTc5LjQ2NiA0MS42OTVsLTYzLjA4LTM2LjYzTDE2MS43MyA3Ny44NmEuODIuODIgMCAwIDEgLjc2OCAwbDUyLjIzMyAzMC4xODRhNDguNiA0OC42IDAgMCAxLTcuMzE2IDg3LjYzNXYtNjEuMzkxYTguNTQgOC41NCAwIDAgMC00LjQtNy4yMTNtMjEuNzQyLTMyLjY5bC0xLjUzNS0uOTIybC01MS42MTktMzAuMDgxYTguMzkgOC4zOSAwIDAgMC04LjQ5MiAwTDk5Ljk4IDk5LjgwOFY3NC41ODdhLjcyLjcyIDAgMCAxIC4zMDctLjY2NWw1Mi4yMzMtMzAuMTMzYTQ4LjY1MiA0OC42NTIgMCAwIDEgNzIuMjM2IDUwLjM5MXpNODguMDYxIDEzOS4wOTdsLTIxLjg0NS0xMi41ODVhLjg3Ljg3IDAgMCAxLS40MS0uNjE0VjY1LjY4NWE0OC42NTIgNDguNjUyIDAgMCAxIDc5Ljc1Ny0zNy4zNDZsLTEuNTM1Ljg3bC01MS42NyAyOS44MjVhOC42IDguNiAwIDAgMC00LjI0NiA3LjM2N3ptMTEuODY4LTI1LjU4TDEyOC4wNjcgOTcuM2wyOC4xODggMTYuMjE4djMyLjQzNGwtMjguMDg2IDE2LjIxOGwtMjguMTg4LTE2LjIxOHoiLz48L3N2Zz4%3D&logoColor=FF6B00" />
-  <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=FF6B00" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-ffffff?style=for-the-badge&logo=githubactions&logoColor=FF6B00" />
-  <img src="https://img.shields.io/badge/VS_Code-ffffff?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxLjAxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjU2IDI1NCI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJTVkc2UTV3TWJOUSIgeDE9IjUwJSIgeDI9IjUwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZiIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmZiIgc3RvcC1vcGFjaXR5PSIwIi8%2BPC9saW5lYXJHcmFkaWVudD48cGF0aCBpZD0iU1ZHV2haMTJkamsiIGQ9Ik0xODAuODI4IDI1Mi42MDVhMTUuODcgMTUuODcgMCAwIDAgMTIuNjUtLjQ4Nmw1Mi41MDEtMjUuMjYyYTE1Ljk0IDE1Ljk0IDAgMCAwIDkuMDI1LTE0LjM2NFY0MS4xOTdhMTUuOTQgMTUuOTQgMCAwIDAtOS4wMjUtMTQuMzYzbC01Mi41LTI1LjI2M2ExNS44OCAxNS44OCAwIDAgMC0xOC4xMTUgMy4wODRMNzQuODU3IDk2LjM1bC00My43OC0zMy4yMzJhMTAuNjE0IDEwLjYxNCAwIDAgMC0xMy41Ni42MDNMMy40NzYgNzYuNDk0Yy00LjYzIDQuMjExLTQuNjM1IDExLjQ5NS0uMDEyIDE1LjcxM2wzNy45NjcgMzQuNjM4bC0zNy45NjcgMzQuNjM3Yy00LjYyMyA0LjIxOS00LjYxOCAxMS41MDIuMDEyIDE1LjcxNGwxNC4wNDEgMTIuNzcyYTEwLjYxNCAxMC42MTQgMCAwIDAgMTMuNTYuNjA0bDQzLjc4LTMzLjIzM2wxMDAuNTA3IDkxLjY5NWExNS44NSAxNS44NSAwIDAgMCA1LjQ2NCAzLjU3MW0xMC40NjQtMTgzLjY0OWwtNzYuMjYyIDU3Ljg4OWw3Ni4yNjIgNTcuODg4eiIvPjwvZGVmcz48bWFzayBpZD0iU1ZHU0FRNThIMmYiIGZpbGw9IiNmZmYiPjx1c2UgaHJlZj0iI1NWR1doWjEyZGprIi8%2BPC9tYXNrPjxwYXRoIGZpbGw9IiMwMDY1YTkiIGQ9Ik0yNDYuMTM1IDI2Ljg3M0wxOTMuNTkzIDEuNTc1YTE1Ljg4NSAxNS44ODUgMCAwIDAtMTguMTIzIDMuMDhMMy40NjYgMTYxLjQ4MmMtNC42MjYgNC4yMTktNC42MiAxMS41MDIuMDEyIDE1LjcxNGwxNC4wNSAxMi43NzJhMTAuNjI1IDEwLjYyNSAwIDAgMCAxMy41NjkuNjA0TDIzOC4yMjkgMzMuNDM2YzYuOTQ5LTUuMjcxIDE2LjkzLS4zMTUgMTYuOTMgOC40MDd2LS42MWExNS45NCAxNS45NCAwIDAgMC05LjAyNC0xNC4zNiIgbWFzaz0idXJsKCNTVkdTQVE1OEgyZikiLz48cGF0aCBmaWxsPSIjMDA3YWNjIiBkPSJtMjQ2LjEzNSAyMjYuODE2bC01Mi41NDIgMjUuMjk4YTE1Ljg5IDE1Ljg5IDAgMCAxLTE4LjEyMy0zLjA4TDMuNDY2IDkyLjIwN2MtNC42MjYtNC4yMTgtNC42Mi0xMS41MDIuMDEyLTE1LjcxM2wxNC4wNS0xMi43NzNhMTAuNjI1IDEwLjYyNSAwIDAgMSAxMy41NjktLjYwM2wyMDcuMTMyIDE1Ny4xMzVjNi45NDkgNS4yNzEgMTYuOTMuMzE1IDE2LjkzLTguNDA4di42MTFhMTUuOTQgMTUuOTQgMCAwIDEtOS4wMjQgMTQuMzYiIG1hc2s9InVybCgjU1ZHU0FRNThIMmYpIi8%2BPHBhdGggZmlsbD0iIzFmOWNmMCIgZD0iTTE5My40MjggMjUyLjEzNGExNS44OSAxNS44OSAwIDAgMS0xOC4xMjUtMy4wODNjNS44ODEgNS44OCAxNS45MzggMS43MTUgMTUuOTM4LTYuNjAzVjExLjI3M2MwLTguMzE4LTEwLjA1Ny0xMi40ODMtMTUuOTM4LTYuNjAyYTE1Ljg5IDE1Ljg5IDAgMCAxIDE4LjEyNS0zLjA4NGw1Mi41MzMgMjUuMjYzYTE1Ljk0IDE1Ljk0IDAgMCAxIDkuMDMgMTQuMzYzVjIxMi41MWMwIDYuMTI1LTMuNTEgMTEuNzA5LTkuMDMgMTQuMzYzeiIgbWFzaz0idXJsKCNTVkdTQVE1OEgyZikiLz48cGF0aCBmaWxsPSJ1cmwoI1NWRzZRNXdNYk5RKSIgZmlsbC1vcGFjaXR5PSIuMjUiIGQ9Ik0xODAuODI4IDI1Mi42MDVhMTUuODcgMTUuODcgMCAwIDAgMTIuNjUtLjQ4Nmw1Mi41LTI1LjI2M2ExNS45NCAxNS45NCAwIDAgMCA5LjAyNi0xNC4zNjNWNDEuMTk3YTE1Ljk0IDE1Ljk0IDAgMCAwLTkuMDI1LTE0LjM2M0wxOTMuNDc3IDEuNTdhMTUuODggMTUuODggMCAwIDAtMTguMTE0IDMuMDg0TDc0Ljg1NyA5Ni4zNWwtNDMuNzgtMzMuMjMyYTEwLjYxNCAxMC42MTQgMCAwIDAtMTMuNTYuNjAzTDMuNDc2IDc2LjQ5NGMtNC42MyA0LjIxMS00LjYzNSAxMS40OTUtLjAxMiAxNS43MTNsMzcuOTY3IDM0LjYzOGwtMzcuOTY3IDM0LjYzN2MtNC42MjMgNC4yMTktNC42MTggMTEuNTAyLjAxMiAxNS43MTRsMTQuMDQxIDEyLjc3MmExMC42MTQgMTAuNjE0IDAgMCAwIDEzLjU2LjYwNGw0My43OC0zMy4yMzNsMTAwLjUwNiA5MS42OTVhMTUuOSAxNS45IDAgMCAwIDUuNDY1IDMuNTcxbTEwLjQ2NC0xODMuNjVsLTc2LjI2MiA1Ny44OWw3Ni4yNjIgNTcuODg4eiIgbWFzaz0idXJsKCNTVkdTQVE1OEgyZikiLz48L3N2Zz4%3D&logoColor=FF6B00" />
-</p>
+</div>
 
 <br />
 
-<!-- ──────────────────────  TELEMETRY  ────────────────────── -->
+<!-- ──────────────────────  FEATURED WORK  ────────────────────── -->
 
-## ▸ TELEMETRY
+## // Featured Work
 
-<p><sub><i>// live readout — commits · streak · languages · contributions</i></sub></p>
+<table border="0">
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://sampi314.github.io/Sam-Personal-Profile/projects/project-excel.html">
+        <img src="https://img.shields.io/badge/-_-f59e0b?style=flat-square" height="4" alt="" />
+      </a>
+      <h3><a href="https://sampi314.github.io/Sam-Personal-Profile/projects/project-excel.html">Matrix Manipulation: 8 Formula Approaches</a></h3>
+      <p>Compare MMULT, SUMIFS, GROUPBY, and LAMBDA variants for aggregating categorised data into a summary matrix. Interactive demo lets you switch between all 8 methods.</p>
+      <p>
+        <img src="https://img.shields.io/badge/EXCEL%20FORMULAS-1a1a24?style=flat-square&labelColor=f59e0b" alt="Excel Formulas" />
+        <img src="https://img.shields.io/badge/INTERACTIVE-1a1a24?style=flat-square&labelColor=f59e0b" alt="Interactive" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://sampi314.github.io/Sam-Personal-Profile/projects/project-sum-to-target.html">
+        <img src="https://img.shields.io/badge/-_-f59e0b?style=flat-square" height="4" alt="" />
+      </a>
+      <h3><a href="https://sampi314.github.io/Sam-Personal-Profile/projects/project-sum-to-target.html">Solving the Subset Sum Problem with Excel</a></h3>
+      <p>Find all combinations of numbers that sum to a target using SEQUENCE, BASE, MMULT, and FILTER. Three approaches from step-by-step to a single formula.</p>
+      <p>
+        <img src="https://img.shields.io/badge/EXCEL%20ALGORITHMS-1a1a24?style=flat-square&labelColor=f59e0b" alt="Excel Algorithms" />
+        <img src="https://img.shields.io/badge/DYNAMIC%20ARRAYS-1a1a24?style=flat-square&labelColor=f59e0b" alt="Dynamic Arrays" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ──────────────────────  EXPERIENCE  ────────────────────── -->
+
+## // Experience
+
+<table border="0">
+  <tr>
+    <td valign="top" width="200">
+      <sub><code>OCT 2023 — PRESENT</code></sub><br />
+      <sub><code>SUMPRODUCT</code></sub><br />
+      <sub><code>SYDNEY, AU</code></sub>
+    </td>
+    <td valign="top">
+      <b>Senior Analyst</b>
+      <ul>
+        <li>Built and reviewed 50+ financial models in Excel for clients across infrastructure, energy, real estate, and government sectors.</li>
+        <li>Designed and delivered 15+ dynamic Power BI dashboards and reports, including complex matrix visuals with dynamic Actual/Budget/Variance analysis.</li>
+        <li>Built 30+ automation tools using Excel VBA, Python (openpyxl, pywin32), VB.NET, Power Query, and Power BI.</li>
+        <li>Developed a multi-agent Excel model audit framework covering 10 audit dimensions — formula logic, error detection, formatting consistency, text quality, efficiency, hyperlinks, VBA, Power Query, and dependency mapping.</li>
+        <li>Productised AI tooling for the firm using Claude Code CLI and custom skill architecture, building 5+ reusable internal tools that automate core consulting deliverables.</li>
+        <li>Tools built include a 7-phase financial modelling suite, a multi-agent Excel audit suite, an editorial writing auditor, a DAX blog generator, and a book authoring assistant.</li>
+        <li>Evaluated and integrated 3 AI platforms (Claude, ChatGPT, Gemini) into team workflows.</li>
+        <li>Authored 20+ published articles for SumProduct on DAX functions, Power BI, and Excel challenge series.</li>
+        <li>Managed project delivery and trained staff across data analysis, automation, and AI tools.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="200">
+      <sub><code>AUG 2022 — OCT 2023</code></sub><br />
+      <sub><code>SUMPRODUCT</code></sub><br />
+      <sub><code>SYDNEY, AU</code></sub>
+    </td>
+    <td valign="top">
+      <b>Analyst</b>
+      <ul>
+        <li>Extensive experience developing and reviewing complex financial models, employing advanced mathematical techniques and Excel to facilitate strategic decision-making.</li>
+        <li>Proficient in data transformation and visualization, employing diverse tools and technologies to extract, clean, and present intricate data sets for insightful analysis.</li>
+        <li>Skilled in providing support across training materials, marketing material preparation, website content development, and office administration.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="200">
+      <sub><code>APR 2020</code></sub><br />
+      <sub><code>PRACTERA</code></sub><br />
+      <sub><code>AUSTRALIA</code></sub>
+    </td>
+    <td valign="top">
+      <b>Global Trade Accelerator Consultant</b>
+      <ul>
+        <li>Identified and defined objectives of assigned marketing research projects.</li>
+        <li>Conducted research and compiled data on product market, customer demographics, and factors influencing demand.</li>
+        <li>Analysed results to identify ways of maximising sales and market penetration.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="200">
+      <sub><code>SEP — OCT 2019</code></sub><br />
+      <sub><code>UOB</code></sub><br />
+      <sub><code>HO CHI MINH, VN</code></sub>
+    </td>
+    <td valign="top">
+      <b>Commercial Banking Intern</b>
+      <ul>
+        <li>Generated 100+ customer contacts daily (existing and potential), utilising excellent communication skills.</li>
+        <li>Supported the sales team with the preparation of documents for loan applications.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="200">
+      <sub><code>JUN — SEP 2018</code></sub><br />
+      <sub><code>LIEN SINH PACKAGING</code></sub><br />
+      <sub><code>HO CHI MINH, VN</code></sub>
+    </td>
+    <td valign="top">
+      <b>Trainee Accountant</b>
+      <ul>
+        <li>Undertook preparation of asset, liability, and capital account entries (compiling, analysing).</li>
+        <li>Created financial reports to support the accounting team.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ──────────────────────  EDUCATION  ────────────────────── -->
+
+## // Education
+
+<table border="0">
+  <tr>
+    <td valign="top" width="200">
+      <sub><code>FEB 2020 — NOV 2021</code></sub><br />
+      <sub><code>UNIVERSITY OF ADELAIDE</code></sub>
+    </td>
+    <td valign="top">
+      <b>Master of Finance</b><br />
+      GPA: 6.375/7 · Golden Key Member
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="200">
+      <sub><code>FEB 2016 — JUN 2019</code></sub><br />
+      <sub><code>I-SHOU UNIVERSITY, TAIWAN</code></sub>
+    </td>
+    <td valign="top">
+      <b>Bachelor of International Finance</b><br />
+      GPA: 4.00/4 · Top 5% · Merit Scholarship · Dean's List
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ──────────────────────  SKILLS  ────────────────────── -->
+
+## // Skills
+
+<p>
+  <sub><code>TECHNICAL</code></sub><br />
+  <img src="https://img.shields.io/badge/EXCEL-1a1a24?style=flat-square&labelColor=f59e0b" alt="Excel" />
+  <img src="https://img.shields.io/badge/VBA-1a1a24?style=flat-square&labelColor=f59e0b" alt="VBA" />
+  <img src="https://img.shields.io/badge/POWER%20QUERY-1a1a24?style=flat-square&labelColor=f59e0b" alt="Power Query" />
+  <img src="https://img.shields.io/badge/POWER%20BI-1a1a24?style=flat-square&labelColor=f59e0b" alt="Power BI" />
+  <img src="https://img.shields.io/badge/VB.NET-1a1a24?style=flat-square&labelColor=f59e0b" alt="VB.NET" />
+  <img src="https://img.shields.io/badge/FINANCIAL%20MODELING-1a1a24?style=flat-square&labelColor=f59e0b" alt="Financial Modeling" />
+  <img src="https://img.shields.io/badge/DATA%20VISUALIZATION-1a1a24?style=flat-square&labelColor=f59e0b" alt="Data Visualization" />
+  <img src="https://img.shields.io/badge/POWER%20AUTOMATE-1a1a24?style=flat-square&labelColor=f59e0b" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/RSTUDIO-1a1a24?style=flat-square&labelColor=f59e0b" alt="RStudio" />
+  <img src="https://img.shields.io/badge/DATA%20ANALYSIS-1a1a24?style=flat-square&labelColor=f59e0b" alt="Data Analysis" />
+</p>
+
+<br />
+
+<!-- ──────────────────────  CERTIFICATIONS  ────────────────────── -->
+
+## // Certifications
+
+- `★` **Corporate Financial Statement Analysis**
+- `★` **R Programming**
+- `★` **UT.5.05x: Linear Algebra – Foundations to Frontiers**
+
+<br />
+
+<!-- ──────────────────────  HONOURS & AWARDS  ────────────────────── -->
+
+## // Honours &amp; Awards
+
+- `✦` **Dean's List Award** ×2
+- `✦` **Honorary Member of Golden Key Society**
+
+<br />
+
+<!-- ──────────────────────  LANGUAGES  ────────────────────── -->
+
+## // Languages
+
+<table border="0">
+  <tr><td><b>Vietnamese</b></td><td align="right"><code>NATIVE OR BILINGUAL</code></td></tr>
+  <tr><td><b>English</b></td><td align="right"><code>FULL PROFESSIONAL</code></td></tr>
+  <tr><td><b>Chinese (Simplified)</b></td><td align="right"><code>LIMITED WORKING</code></td></tr>
+  <tr><td><b>Chinese (Traditional)</b></td><td align="right"><code>LIMITED WORKING</code></td></tr>
+</table>
+
+<br />
+
+---
+
+<p align="center"><sub><code>// github</code></sub></p>
+
+---
+
+<!-- ──────────────────────  GITHUB TELEMETRY  ────────────────────── -->
+
+## // GitHub Telemetry
+
+<p><sub><i>// live readout — commits · streak · contributions</i></sub></p>
 
 <div align="center">
 
@@ -121,14 +297,14 @@ What I love is finding the **leverage points in finance** — the moments where 
   <tr>
     <td colspan="2" align="center" valign="top">
       <a href="https://git.io/streak-stats">
-        <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Sampi314&hide_border=true&background=0d1117&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=AAAAAA" alt="GitHub Streak" />
+        <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Sampi314&hide_border=true&background=000000&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=f59e0b&sideLabels=f59e0b&dates=AAAAAA" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sampi314&bg_color=0d1117&color=FF6B00&line=FF6B00&point=ffffff&area=true&area_color=FF6B00&hide_border=true&custom_title=COMMIT%20ACTIVITY%20%2F%2F%20LAST%2031%20DAYS&radius=8" alt="Commit activity graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sampi314&bg_color=000000&color=f59e0b&line=f59e0b&point=ffffff&area=true&area_color=f59e0b&hide_border=true&custom_title=COMMIT%20ACTIVITY%20%2F%2F%20LAST%2031%20DAYS&radius=8" alt="Commit activity graph" />
       </a>
     </td>
   </tr>
@@ -147,9 +323,9 @@ What I love is finding the **leverage points in finance** — the moments where 
 
 <br />
 
-<!-- ──────────────────────  TROPHIES & ACHIEVEMENTS  ────────────────────── -->
+<!-- ──────────────────────  TROPHIES  ────────────────────── -->
 
-## ▸ TROPHIES & ACHIEVEMENTS
+## // Trophies
 
 <p align="center">
   <a href="https://github.com/Sampi314?achievement=pull-shark&tab=achievements"><img height="80" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" /></a>
@@ -165,24 +341,24 @@ What I love is finding the **leverage points in finance** — the moments where 
 
 <br />
 
-<!-- ──────────────────────  EXPLORING  ────────────────────── -->
+<!-- ──────────────────────  CURRENTLY EXPLORING  ────────────────────── -->
 
-## ▸ CURRENTLY EXPLORING
+## // Currently Exploring
 
 <p><sub><i>// public learning trajectory — what's in my browser tabs and editor</i></sub></p>
 
-- ► **Microsoft AI Tour 2026** — agent building, Model Context Protocol (MCP), GitHub Copilot agent mode, model customization with Foundry
-- ► **Anthropic plugin development** — `financial-services-plugins`, `knowledge-work-plugins` — building skills for consulting workflows
-- ► **Voice & multimodal AI** — Whisper, OmniVoice, VibeVoice, and `VieNeu-TTS` (Vietnamese text-to-speech 🇻🇳)
-- ► **LLMs from scratch** — building intuition for the models I deploy daily
-- ► **Spec-Driven Development** — exploring `spec-kit` patterns to make AI workflows more rigorous
-- ► **AI for consulting workflows** — wiring Claude, Excel, and Power BI together so patterns built for one client scale firm-wide
+- `►` **Microsoft AI Tour 2026** — agent building, Model Context Protocol (MCP), GitHub Copilot agent mode, model customization with Foundry
+- `►` **Anthropic plugin development** — `financial-services-plugins`, `knowledge-work-plugins` — building skills for consulting workflows
+- `►` **Voice & multimodal AI** — Whisper, OmniVoice, VibeVoice, and `VieNeu-TTS` (Vietnamese text-to-speech 🇻🇳)
+- `►` **LLMs from scratch** — building intuition for the models I deploy daily
+- `►` **Spec-Driven Development** — exploring `spec-kit` patterns to make AI workflows more rigorous
+- `►` **AI for consulting workflows** — wiring Claude, Excel, and Power BI together so patterns built for one client scale firm-wide
 
 <br />
 
 <!-- ──────────────────────  TRANSMISSION  ────────────────────── -->
 
-## ▸ TRANSMISSION
+## // Transmission
 
 ```
 > Open channel · always happy to talk shop
@@ -196,7 +372,6 @@ What I love is finding the **leverage points in finance** — the moments where 
 | 💼 **LinkedIn** | [in/nkhoihue](https://www.linkedin.com/in/nkhoihue/) |
 | 📧 **Email** | [nkhoihue@gmail.com](mailto:nkhoihue@gmail.com) |
 | 🌏 **Based** | Sydney, Australia · UTC+11 |
-| 🗣️ **Languages** | Vietnamese (native) · English (full pro) · Chinese (limited working) |
 
 <br />
 
@@ -206,4 +381,4 @@ What I love is finding the **leverage points in finance** — the moments where 
   <em>"The best models aren't just accurate — they're auditable, maintainable, and tell their story without explanation."</em>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:1a1a1a,100:000000&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:1a1a24,100:000000&height=120&section=footer" alt="footer" />
