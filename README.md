@@ -76,6 +76,10 @@
 
 ## // About
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=560&lines=%3E+who+am+i;%3E+the+human+behind+the+work" alt="About typing" />
+</p>
+
 **Senior Analyst at [SumProduct](https://www.sumproduct.com)** in Sydney — I build financial models, automate workflows, and turn complex data into clear visuals across infrastructure, energy, real estate, and government. **Master of Finance** (Adelaide, GPA 6.375/7), **Bachelor of International Finance** (I-Shou, Taiwan, GPA 4.0/4, Top 5%). Lately: productising AI tooling so the patterns scale beyond me.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF6B00,100:000000&height=2" alt="" width="100%" />
@@ -84,7 +88,9 @@
 
 ## // Featured Work
 
-<p><sub><i>// live repo cards — updated automatically from GitHub</i></sub></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=560&lines=%3E+what+i%27ve+shipped;%3E+live+repos+%C2%B7+live+demos" alt="Featured Work typing" />
+</p>
 
 <div align="center">
 <table border="0" cellspacing="6" cellpadding="0">
@@ -122,6 +128,10 @@
 <!-- ──────────────────────  EXPERIENCE — CURRENT ROLE EXPANDED  ────────────────────── -->
 
 ## // Experience
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=560&lines=%3E+where+i%27ve+been;%3E+the+road+so+far" alt="Experience typing" />
+</p>
 
 <table border="0">
   <tr>
@@ -171,6 +181,10 @@
 
 ## // Education
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=560&lines=%3E+where+i+learned;%3E+two+degrees+%C2%B7+two+countries" alt="Education typing" />
+</p>
+
 <table border="0">
   <tr>
     <td valign="top" width="200"><sub><code>2020 — 2021</code></sub><br /><sub><code>U. ADELAIDE</code></sub></td>
@@ -187,6 +201,10 @@
 <!-- ──────────────────────  SKILLS  ────────────────────── -->
 
 ## // Skills
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=560&lines=%3E+tools+of+the+trade;%3E+excel+to+ai+%C2%B7+in+one+stack" alt="Skills typing" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/EXCEL-1a1a1a?style=flat-square&labelColor=FF6B00" alt="Excel" />
@@ -207,6 +225,10 @@
 
 ## // Credentials
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=560&lines=%3E+papers+%26+prizes" alt="Credentials typing" />
+</p>
+
 - `★` Corporate Financial Statement Analysis
 - `★` R Programming
 - `★` UT.5.05x · Linear Algebra: Foundations to Frontiers
@@ -218,6 +240,10 @@
 <!-- ──────────────────────  LANGUAGES  ────────────────────── -->
 
 ## // Languages
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=560&lines=%3E+code+%26+spoken" alt="Languages typing" />
+</p>
 
 <table border="0">
   <tr><td><b>Vietnamese</b></td><td align="right"><code>NATIVE</code></td></tr>
@@ -236,6 +262,10 @@
 <!-- ──────────────────────  GITHUB TELEMETRY  ────────────────────── -->
 
 ## // Telemetry
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=560&lines=%3E+live+readout+%E2%80%94+commits+%C2%B7+streak+%C2%B7+activity" alt="Telemetry typing" />
+</p>
 
 <div align="center">
 
@@ -273,6 +303,10 @@
 ## // Currently Exploring
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=560&lines=%3E+what%27s+in+my+browser+tabs;%3E+the+next+thing+i%27m+learning" alt="Currently Exploring typing" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=800&color=FF6B00&center=true&vCenter=true&width=760&lines=01.+Microsoft+AI+Tour+2026+%E2%80%94+MCP+%C2%B7+Copilot+agent+mode+%C2%B7+Foundry;02.+Anthropic+plugins+for+consulting+workflows;03.+LLMs+from+scratch+%E2%80%94+intuition+for+daily+tools;04.+Spec-Driven+Development+with+spec-kit;05.+Voice+%26+multimodal+AI+%E2%80%94+Whisper+%C2%B7+VibeVoice+%C2%B7+VieNeu-TTS" alt="Currently exploring" />
 </p>
 
@@ -281,6 +315,10 @@
 <!-- ──────────────────────  TROPHIES  ────────────────────── -->
 
 ## // Trophies
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=560&lines=%3E+achievements+unlocked" alt="Trophies typing" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Sampi314?achievement=pull-shark&tab=achievements"><img height="80" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" /></a>
