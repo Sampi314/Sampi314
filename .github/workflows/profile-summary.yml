@@ -35,7 +35,7 @@ jobs:
             cd ..
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git pull --rebase origin main
+            git pull --rebase --autostash origin main
             git add -A
             if ! git diff --cached --quiet; then
               git commit -m "chore: keep only github_dark theme (drop unused themes + stats radar)"
