@@ -347,4 +347,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:1a1a1a,100:000000&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:1a1a1a,100:000000&height=120&section=footer" alt="footer" /> 
