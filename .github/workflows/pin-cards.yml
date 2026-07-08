@@ -1,0 +1,57 @@
+name: Generate Pin Cards
+
+# ────────────────────────────────────────────────────────────────────
+#  REQUIRED ONE-TIME SETUP
+#  ----------------------------------------------------------------
+#  The Featured Work pin cards include private repos, which the
+#  default GITHUB_TOKEN cannot read. Add a PAT so the card can
+#  recalculate:
+#
+#  1. https://github.com/settings/tokens?type=beta
+#     → Generate token → Repository access: All repositories (or at
+#       least the repos listed in scripts/generate_pin_card.py)
+#     → Permissions: Contents (read-only), Metadata (read-only)
+#
+#  2. In THIS repo: Settings → Secrets and variables → Actions →
+#     New repository secret → Name: PIN_TOKEN → paste the PAT.
+#
+#  Until PIN_TOKEN is added, runs will fail with a clear error and
+#  the previously published card stays live on the output-cards
+#  branch (it is only overwritten on success).
+# ────────────────────────────────────────────────────────────────────
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - scripts/generate_pin_card.py
+      - .github/workflows/pin-cards.yml
+
+permissions:
+  contents: write
+
+jobs:
+  pin-cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.PIN_TOKEN }}
+        run: python3 scripts/generate_pin_card.py cards
+
+      - name: Publish to output-cards branch
+        run: |
+          cd cards
+          git init -b output-cards
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "cards: refresh pin cards"
+          git push --force "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" output-cards
