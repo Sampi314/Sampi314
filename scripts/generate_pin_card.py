@@ -1,15 +1,20 @@
-"""Generate self-updating pin-card SVGs for the profile README.
+"""Generate self-updating SVG cards for the profile README.
 
 Runs in GitHub Actions (see .github/workflows/pin-cards.yml). Fetches live
-repo stats from the GitHub API and renders a Mission Control themed card
+data from the GitHub API and renders Mission Control themed cards
 (bg #0d1117, accent #FF6B00). Output is force-pushed to the `output-cards`
-branch, which the README embeds via raw.githubusercontent.com — so the card
-recalculates every time the workflow runs.
+branch, which the README embeds via raw.githubusercontent.com — so every
+card recalculates each time the workflow runs.
 
-Only repos with a live GitHub Pages site belong here; the card links out to
-the Pages site, not the repo.
+Two card types:
+  - Pin cards, one per entry in REPOS (Featured Work section). Only repos
+    with a live GitHub Pages site belong here; the README links each card
+    to its Pages site, not the repo.
+  - A profile stats card (TELEMETRY section) replacing the paused
+    github-readme-stats.vercel.app service.
 """
 
+import datetime
 import json
 import os
 import re
@@ -21,13 +26,50 @@ BG = "#0d1117"
 TEXT = "#ffffff"
 MUTED = "#AAAAAA"
 
-# Repos to render. `description` overrides the repo description (useful when
-# the repo has none). `slug` becomes the output filename.
+STATS_USER = "Sampi314"
+
+# Repos to render as pin cards. `description` overrides the repo description
+# (useful when the repo has none). `slug` becomes the output filename.
 REPOS = [
     {
         "repo": "Sampi314/Sam-Personal-Profile",
         "slug": "sam-personal-profile",
         "description": "Interactive portfolio — financial modelling, dashboards & automation demos",
+    },
+    {
+        "repo": "Sampi314/Sam-Tools",
+        "slug": "sam-tools",
+        "description": "Free Excel 365 productivity add-in — compare workbooks cell-by-cell & trace formulas across sheets",
+    },
+    {
+        "repo": "Sampi314/Atelier-Image",
+        "slug": "atelier-image",
+        "description": "Batch image generator built on Gemini 3 Flash — compose prompts, anchor styles, queue generations",
+    },
+    {
+        "repo": "Sampi314/Cosmic-Arcade",
+        "slug": "cosmic-arcade",
+        "description": "Five classic browser games in vanilla HTML/CSS/JS — Word Chain, Sudoku, Card Flip, Gomoku & more",
+    },
+    {
+        "repo": "Sampi314/Folio-Library",
+        "slug": "folio-library",
+        "description": "A personal library that reads itself aloud — EPUBs, PDFs, manga. Local-first, browser-native",
+    },
+    {
+        "repo": "Sampi314/Lexicon-Teochew",
+        "slug": "lexicon-teochew",
+        "description": "Học Tiếng Triều Châu — interactive Teochew language learning app",
+    },
+    {
+        "repo": "Sampi314/Sieve",
+        "slug": "sieve",
+        "description": "Checkerboard Number Mesh — interactive number grid visualiser",
+    },
+    {
+        "repo": "Sampi314/Folio-Menu",
+        "slug": "folio-menu",
+        "description": "Hôm nay ăn gì? — random Vietnamese meal picker for when you can't decide",
     },
 ]
 
@@ -39,8 +81,11 @@ LANG_COLORS = {
     "Python": "#3572A5",
     "TypeScript": "#3178c6",
     "VBA": "#867db1",
+    "Visual Basic .NET": "#945db7",
     "R": "#198CE7",
     "Jupyter Notebook": "#DA5B0B",
+    "PowerShell": "#012456",
+    "Astro": "#ff5a03",
 }
 LANG_FALLBACK = "#8b949e"
 
@@ -144,6 +189,91 @@ def render_card(info, languages, commits, description):
 """
 
 
+def search_count(query, token):
+    return api_json(f"/search/{query}", token)["total_count"]
+
+
+def fetch_profile_stats(token):
+    """Each metric degrades to None independently so one API hiccup
+    doesn't blank the whole card."""
+    year = datetime.date.today().year
+    stats = {"year": year}
+
+    def grab(key, fn):
+        try:
+            stats[key] = fn()
+        except Exception as err:
+            print(f"warn: could not fetch {key}: {err}", file=sys.stderr)
+            stats[key] = None
+
+    def total_stars():
+        stars, page = 0, 1
+        while True:
+            repos = api_json(f"/user/repos?affiliation=owner&per_page=100&page={page}", token)
+            stars += sum(r["stargazers_count"] for r in repos)
+            if len(repos) < 100:
+                return stars
+            page += 1
+
+    grab("stars", total_stars)
+    grab("commits_year", lambda: search_count(
+        f"commits?q=author:{STATS_USER}+author-date:>={year}-01-01", token))
+    grab("commits_total", lambda: search_count(f"commits?q=author:{STATS_USER}", token))
+    grab("prs", lambda: search_count(f"issues?q=type:pr+author:{STATS_USER}", token))
+    grab("issues", lambda: search_count(f"issues?q=type:issue+author:{STATS_USER}", token))
+    grab("followers", lambda: api_json(f"/users/{STATS_USER}", token)["followers"])
+    return stats
+
+
+def render_stats_card(stats):
+    width, height, pad = 445, 180, 24
+    year = stats["year"]
+
+    def fmt(value):
+        if value is None:
+            return "—"
+        return f"{value / 1000:.1f}k" if value >= 1000 else str(value)
+
+    rows = [
+        ("★", "TOTAL STARS", stats["stars"]),
+        ("⇅", "TOTAL PRs", stats["prs"]),
+        ("◎", "TOTAL ISSUES", stats["issues"]),
+        ("⚉", "FOLLOWERS", stats["followers"]),
+        ("∑", "ALL-TIME COMMITS", stats["commits_total"]),
+    ]
+    row_svg = "".join(
+        f'<text x="{pad}" y="{66 + i * 22}" class="icon">{icon}</text>'
+        f'<text x="{pad + 22}" y="{66 + i * 22}" class="label">{label}</text>'
+        f'<text x="{pad + 195}" y="{66 + i * 22}" text-anchor="end" class="value">{fmt(value)}</text>'
+        for i, (icon, label, value) in enumerate(rows)
+    )
+
+    # Ring showing commits this year.
+    ring_x, ring_y, radius = 340, 102, 46
+    circumference = 2 * 3.14159 * radius
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-label="{STATS_USER} GitHub stats">
+  <style>
+    text {{ font-family: 'JetBrains Mono', 'Segoe UI', Ubuntu, monospace; }}
+    .title {{ font-size: 15px; font-weight: 600; fill: {ACCENT}; letter-spacing: 1px; }}
+    .icon {{ font-size: 12px; fill: {ACCENT}; }}
+    .label {{ font-size: 11px; fill: {MUTED}; letter-spacing: 0.5px; }}
+    .value {{ font-size: 12px; font-weight: 600; fill: {TEXT}; }}
+    .ringnum {{ font-size: 24px; font-weight: 700; fill: {TEXT}; }}
+    .ringlabel {{ font-size: 9px; fill: {ACCENT}; letter-spacing: 1px; }}
+  </style>
+  <rect width="{width}" height="{height}" rx="8" fill="{BG}" />
+  <text x="{pad}" y="34" class="title">// GITHUB STATS</text>
+  {row_svg}
+  <circle cx="{ring_x}" cy="{ring_y}" r="{radius}" fill="none" stroke="#21262d" stroke-width="7" />
+  <circle cx="{ring_x}" cy="{ring_y}" r="{radius}" fill="none" stroke="{ACCENT}" stroke-width="7"
+          stroke-linecap="round" stroke-dasharray="{circumference * 0.72:.1f} {circumference:.1f}"
+          transform="rotate(-90 {ring_x} {ring_y})" />
+  <text x="{ring_x}" y="{ring_y + 4}" text-anchor="middle" class="ringnum">{fmt(stats['commits_year'])}</text>
+  <text x="{ring_x}" y="{ring_y + 22}" text-anchor="middle" class="ringlabel">COMMITS {year}</text>
+</svg>
+"""
+
+
 def main():
     token = os.environ.get("GITHUB_TOKEN")
     if not token:
@@ -169,6 +299,11 @@ def main():
         with open(path, "w", encoding="utf-8") as fh:
             fh.write(render_card(info, languages, commits, description))
         print(f"wrote {path}")
+
+    stats_path = os.path.join(out_dir, "github-stats.svg")
+    with open(stats_path, "w", encoding="utf-8") as fh:
+        fh.write(render_stats_card(fetch_profile_stats(token)))
+    print(f"wrote {stats_path}")
 
 
 if __name__ == "__main__":

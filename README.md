@@ -115,6 +115,47 @@
         <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-cards/sam-personal-profile-pin.svg" alt="Sam-Personal-Profile — live stats" />
       </a>
     </td>
+    <td>
+      <a href="https://sampi314.github.io/Sam-Tools/">
+        <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-cards/sam-tools-pin.svg" alt="Sam-Tools — live stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://sampi314.github.io/Atelier-Image/">
+        <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-cards/atelier-image-pin.svg" alt="Atelier-Image — live stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://sampi314.github.io/Cosmic-Arcade/">
+        <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-cards/cosmic-arcade-pin.svg" alt="Cosmic-Arcade — live stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://sampi314.github.io/Folio-Library/">
+        <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-cards/folio-library-pin.svg" alt="Folio-Library — live stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://sampi314.github.io/Lexicon-Teochew/">
+        <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-cards/lexicon-teochew-pin.svg" alt="Lexicon-Teochew — live stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://sampi314.github.io/Sieve/">
+        <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-cards/sieve-pin.svg" alt="Sieve — live stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://sampi314.github.io/Folio-Menu/">
+        <img src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-cards/folio-menu-pin.svg" alt="Folio-Menu — live stats" />
+      </a>
+    </td>
   </tr>
 </table>
 </div>
@@ -273,7 +314,7 @@
       <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Sampi314&hide_border=true&background=0d1117&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=AAAAAA" alt="GitHub Streak" />
     </td>
     <td align="center" valign="top">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sampi314&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&ring_color=FF6B00&show_icons=true&hide=issues" alt="GitHub stats" />
+      <img height="180" src="https://raw.githubusercontent.com/Sampi314/Sampi314/output-cards/github-stats.svg" alt="GitHub stats" />
     </td>
   </tr>
   <tr>
