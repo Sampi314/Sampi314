@@ -115,11 +115,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampi314&repo=Sam-Personal-Profile&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00" alt="Sam-Personal-Profile" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/Sampi314/Auditor_Agents">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampi314&repo=Auditor_Agents&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00" alt="Auditor_Agents" />
-      </a>
-    </td>
   </tr>
 </table>
 </div>
