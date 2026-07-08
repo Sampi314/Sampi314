@@ -221,8 +221,35 @@ def fetch_profile_stats(token):
     grab("commits_total", lambda: search_count(f"commits?q=author:{STATS_USER}", token))
     grab("prs", lambda: search_count(f"issues?q=type:pr+author:{STATS_USER}", token))
     grab("issues", lambda: search_count(f"issues?q=type:issue+author:{STATS_USER}", token))
+    grab("reviews", lambda: search_count(f"issues?q=type:pr+reviewed-by:{STATS_USER}", token))
     grab("followers", lambda: api_json(f"/users/{STATS_USER}", token)["followers"])
     return stats
+
+
+def calculate_rank(stats):
+    """github-readme-stats rank algorithm (src/calculateRank.js), so the
+    letter matches what the original card would have shown."""
+    exp_cdf = lambda x: 1 - 2 ** -x
+    log_norm_cdf = lambda x: x / (1 + x)
+
+    commits = stats["commits_year"] if stats["commits_year"] is not None else (stats["commits_total"] or 0)
+    commits_median = 250 if stats["commits_year"] is not None else 1000
+    weighted = (
+        2 * exp_cdf(commits / commits_median)
+        + 3 * exp_cdf((stats["prs"] or 0) / 50)
+        + 1 * exp_cdf((stats["issues"] or 0) / 25)
+        + 1 * exp_cdf((stats["reviews"] or 0) / 2)
+        + 4 * log_norm_cdf((stats["stars"] or 0) / 50)
+        + 1 * log_norm_cdf((stats["followers"] or 0) / 10)
+    )
+    percentile = (1 - weighted / 12) * 100
+    for threshold, level in zip(
+        [1, 12.5, 25, 37.5, 50, 62.5, 75, 87.5, 100],
+        ["S", "A+", "A", "A-", "B+", "B", "B-", "C+", "C"],
+    ):
+        if percentile <= threshold:
+            return level, percentile
+    return "C", percentile
 
 
 def render_stats_card(stats):
@@ -236,19 +263,22 @@ def render_stats_card(stats):
 
     rows = [
         ("★", "TOTAL STARS", stats["stars"]),
+        ("↻", f"COMMITS {year}", stats["commits_year"]),
+        ("∑", "ALL-TIME COMMITS", stats["commits_total"]),
         ("⇅", "TOTAL PRs", stats["prs"]),
         ("◎", "TOTAL ISSUES", stats["issues"]),
         ("⚉", "FOLLOWERS", stats["followers"]),
-        ("∑", "ALL-TIME COMMITS", stats["commits_total"]),
     ]
     row_svg = "".join(
-        f'<text x="{pad}" y="{66 + i * 22}" class="icon">{icon}</text>'
-        f'<text x="{pad + 22}" y="{66 + i * 22}" class="label">{label}</text>'
-        f'<text x="{pad + 195}" y="{66 + i * 22}" text-anchor="end" class="value">{fmt(value)}</text>'
+        f'<text x="{pad}" y="{62 + i * 19}" class="icon">{icon}</text>'
+        f'<text x="{pad + 22}" y="{62 + i * 19}" class="label">{label}</text>'
+        f'<text x="{pad + 195}" y="{62 + i * 19}" text-anchor="end" class="value">{fmt(value)}</text>'
         for i, (icon, label, value) in enumerate(rows)
     )
 
-    # Ring showing commits this year.
+    # Ring showing the github-readme-stats letter rank; fill = score share.
+    level, percentile = calculate_rank(stats)
+    ring_fill = max(0.04, 1 - percentile / 100)
     ring_x, ring_y, radius = 340, 102, 46
     circumference = 2 * 3.14159 * radius
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-label="{STATS_USER} GitHub stats">
@@ -258,7 +288,7 @@ def render_stats_card(stats):
     .icon {{ font-size: 12px; fill: {ACCENT}; }}
     .label {{ font-size: 11px; fill: {MUTED}; letter-spacing: 0.5px; }}
     .value {{ font-size: 12px; font-weight: 600; fill: {TEXT}; }}
-    .ringnum {{ font-size: 24px; font-weight: 700; fill: {TEXT}; }}
+    .ringnum {{ font-size: 30px; font-weight: 700; fill: {TEXT}; }}
     .ringlabel {{ font-size: 9px; fill: {ACCENT}; letter-spacing: 1px; }}
   </style>
   <rect width="{width}" height="{height}" rx="8" fill="{BG}" />
@@ -266,10 +296,10 @@ def render_stats_card(stats):
   {row_svg}
   <circle cx="{ring_x}" cy="{ring_y}" r="{radius}" fill="none" stroke="#21262d" stroke-width="7" />
   <circle cx="{ring_x}" cy="{ring_y}" r="{radius}" fill="none" stroke="{ACCENT}" stroke-width="7"
-          stroke-linecap="round" stroke-dasharray="{circumference * 0.72:.1f} {circumference:.1f}"
+          stroke-linecap="round" stroke-dasharray="{circumference * ring_fill:.1f} {circumference:.1f}"
           transform="rotate(-90 {ring_x} {ring_y})" />
-  <text x="{ring_x}" y="{ring_y + 4}" text-anchor="middle" class="ringnum">{fmt(stats['commits_year'])}</text>
-  <text x="{ring_x}" y="{ring_y + 22}" text-anchor="middle" class="ringlabel">COMMITS {year}</text>
+  <text x="{ring_x}" y="{ring_y + 8}" text-anchor="middle" class="ringnum">{level}</text>
+  <text x="{ring_x}" y="{ring_y + 26}" text-anchor="middle" class="ringlabel">RANK</text>
 </svg>
 """
 
