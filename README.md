@@ -111,7 +111,7 @@
 <table border="0" cellspacing="6" cellpadding="0">
   <tr>
     <td>
-      <a href="https://github.com/Sampi314/Sam-Personal-Profile">
+      <a href="https://sampi314.github.io/Sam-Personal-Profile/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sampi314&repo=Sam-Personal-Profile&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00" alt="Sam-Personal-Profile" />
       </a>
     </td>
